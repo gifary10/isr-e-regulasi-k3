@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#fa800c">
+    <meta name="description" content="Aplikasi informasi regulasi Keselamatan dan Kesehatan Kerja (K3) Indonesia">
+    <title>Regulasi K3 Indonesia</title>
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" as="style" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" as="style">
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" as="style">
+    
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Preload scripts -->
+    <link rel="preload" href="js/regulationService.js" as="script">
+    <link rel="preload" href="js/tabController.js" as="script">
+    <link rel="preload" href="js/regulationDetailController.js" as="script">
+    <link rel="preload" href="js/uiController.js" as="script">
+    <link rel="preload" href="js/main.js" as="script">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+  <div class="container">
+    <div class="header-content">
+      <h1 class="app-title">Regulasi K3 Indonesia</h1>
+      <img src="logop.png" alt="Logo Kementerian Ketenagakerjaan" class="header-logo">
+    </div>
+  </div>
+  <div class="header-marquee">
+    <div class="marquee-content">
+      <span>Sumber informasi peraturan keselamatan dan kesehatan kerja • Update terbaru regulasi K3 • Perlindungan pekerja adalah prioritas • K3 untuk produktivitas berkelanjutan • </span>
+      <span>Sumber informasi peraturan keselamatan dan kesehatan kerja • Update terbaru regulasi K3 • Perlindungan pekerja adalah prioritas • K3 untuk produktivitas berkelanjutan • </span>
+    </div>
+  </div>
+</header>
+
+        <!-- Main Content -->
+        <main class="app-main">
+            <div class="container">
+                <!-- Daftar Tab Content -->
+                <section class="tab-content active" id="daftarTab" aria-labelledby="daftarTabLabel" role="tabpanel">
+                    <!-- Search and Filter -->
+       
+                            <div class="row g-2 mb-4">
+                                <div class="col-md-8">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Cari regulasi..." id="searchInput" aria-label="Cari regulasi" aria-describedby="searchInputLabel">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <select class="form-select" id="categoryFilter" aria-label="Filter kategori">
+                                        <option value="all">Semua Kategori</option>
+                                        <option value="uu">Undang-Undang</option>
+                                        <option value="pp">Peraturan Pemerintah</option>
+                                        <option value="permen">Peraturan Menteri</option>
+                                    </select>
+                                </div>
+                            </div>
+         
+                    
+                    <!-- Regulation List -->
+                    <section class="regulation-list" id="regulationContainer" aria-live="polite">
+                        <!-- Regulations will be loaded here by JavaScript -->
+                        <div class="loading-state">
+                            <div class="spinner-border text-primary" role="status">
+                                <span class="visually-hidden">Memuat...</span>
+                            </div>
+                            <p>Memuat regulasi...</p>
+                        </div>
+                    </section>
+                </section>
+
+                <!-- Konten Tab Content -->
+                <section class="tab-content" id="kontenTab" aria-labelledby="kontenTabLabel" role="tabpanel">
+                        <div class="card-body content-detail" id="contentDetail">
+                            <div class="empty-state">
+                                <i class="bi bi-file-text" aria-hidden="true"></i>
+                                <p>Pilih regulasi dari tab Daftar untuk melihat detail</p>
+                            </div>
+                    </div>
+                </section>
+
+                <!-- Regulasi Tab Content -->
+                <section class="tab-content" id="regulasiTab" aria-labelledby="regulasiTabLabel" role="tabpanel">
+                        <div class="card-body regulation-viewer" id="regulationViewer">
+                            <div class="empty-state">
+                                <i class="bi bi-file-earmark-pdf" aria-hidden="true"></i>
+                                <p>Pilih regulasi dari tab Detail untuk melihat dokumen</p>
+                            </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Bottom Tab Bar -->
+        <nav class="app-navbar" aria-label="Navigasi utama">
+            <div class="container">
+                <ul class="nav-list" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link active" href="#" data-tab="daftar" id="daftarTabLabel" role="tab" aria-controls="daftarTab" aria-selected="true">
+                            <i class="bi bi-list-ul"></i>
+                            <span>Daftar</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" href="#" data-tab="konten" id="kontenTabLabel" role="tab" aria-controls="kontenTab" aria-selected="false" tabindex="-1">
+                            <i class="bi bi-file-text"></i>
+                            <span>Detail</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" href="#" data-tab="regulasi" id="regulasiTabLabel" role="tab" aria-controls="regulasiTab" aria-selected="false" tabindex="-1">
+                            <i class="bi bi-file-earmark-pdf"></i>
+                            <span>Dokumen</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    
+    <!-- Load scripts with defer -->
+    <script src="js/regulationService.js" defer></script>
+    <script src="js/tabController.js" defer></script>
+    <script src="js/regulationDetailController.js" defer></script>
+    <script src="js/uiController.js" defer></script>
+    <script src="js/main.js" defer></script>
+</body>
+</html>
