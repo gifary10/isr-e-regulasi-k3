@@ -1,0 +1,116 @@
+{
+    "id": "permenaker1-1979",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Keselamatan dan Kesehatan Kerja pada Pekerjaan Pengelasan",
+    "nomor": "1",
+    "tahun": "1979",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "5 Januari 1979",
+    "tanggal_berlaku": "1 Juli 1979",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai respons terhadap meningkatnya kecelakaan kerja di industri fabrikasi logam (32% dari total kecelakaan industri 1978), mengadopsi standar AWS Z49.1-1976 dan ISO 3677-1976.",
+    "deskripsi": "Peraturan yang mengatur standar keselamatan kerja untuk pekerjaan pengelasan mencakup persyaratan peralatan, prosedur kerja, dan perlindungan pekerja.",
+    "jumlah_bab": "7 Bab",
+    "jumlah_pasal": "25 Pasal",
+    "ruang_lingkup": [
+        "Pengelasan busur listrik (SMAW, GTAW, GMAW)",
+        "Pengelasan gas (oxy-acetylene)",
+        "Pengelasan resistansi",
+        "Pemotongan termal"
+    ],
+    "persyaratan_keselamatan": [
+        {
+            "aspek": "Peralatan",
+            "ketentuan": [
+                "Pemeriksaan harian kabel las dan holder",
+                "Pembumian mesin las yang memadai",
+                "Sistem ventilasi lokal untuk pengelasan dalam ruang tertutup"
+            ]
+        },
+        {
+            "aspek": "Prosedur Kerja",
+            "ketentuan": [
+                "Work permit untuk area berbahaya",
+                "Pembersihan material mudah terbakar dalam radius 10m",
+                "Pengawasan oleh pekerja bersertifikat"
+            ]
+        },
+        {
+            "aspek": "APD Wajib",
+            "ketentuan": [
+                "Helm las filter shade 10-14 (SNI 07-0179-1978)",
+                "Sarung tangan kulit tahan panas",
+                "Apron kulit atau aluminized",
+                "Sepatu safety tahan panas"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Penyediaan alat pemadam api ringan khusus kebakaran logam (Kelas D)",
+        "Pelatihan dasar pengelasan aman 40 jam",
+        "Pemeriksaan kesehatan khusus pekerja las (paru-paru, mata) 6 bulan sekali",
+        "Pemasangan tanda peringatan di area pengelasan"
+    ],
+    "sertifikasi": [
+        {
+            "jenis": "Operator Las",
+            "persyaratan": [
+                "Pelatihan 120 jam",
+                "Uji kompetensi praktik",
+                "Sertifikat Depnaker"
+            ],
+            "masa_berlaku": "3 tahun"
+        },
+        {
+            "jenis": "Pengawas Pengelasan",
+            "persyaratan": [
+                "Pengalaman 5 tahun",
+                "Pelatihan 80 jam",
+                "Sertifikat tingkat ahli"
+            ]
+        }
+    ],
+    "pengendalian_risiko": [
+        {
+            "bahaya": "Radiasi ultraviolet",
+            "kontrol": [
+                "Tirai las berwarna gelap",
+                "Pembatas area kerja",
+                "Rotasi pekerjaan"
+            ]
+        },
+        {
+            "bahaya": "Gas beracun (ozon, CO)",
+            "kontrol": [
+                "Ventilasi mekanis 20 ACH",
+                "Pemantauan udara berkala",
+                "Respirator dengan cartridges khusus"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp500.000 (nilai 1979)"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp5.000.000",
+            "tambahan": "Pencabutan izin operasi"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan"
+        },
+        {
+            "id": "permenaker4-1980",
+            "judul": "Permenaker tentang APAR",
+            "hubungan": "Sistem proteksi kebakaran"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 25 Tahun 2015",
+    "catatan_sejarah": "Menjadi dasar pengembangan SNI 07-0729-2006 tentang Prosedur Pengelasan Aman",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1979/1979permenaker1.pdf"
+}

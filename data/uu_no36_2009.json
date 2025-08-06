@@ -1,0 +1,52 @@
+{
+    "id": "uu36-2009",
+    "judul": "Undang-Undang tentang Kesehatan",
+    "nomor": "36",
+    "tahun": "2009",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "13 Oktober 2009",
+    "tanggal_berlaku": "13 Oktober 2009",
+    "tanggal_rilis": "13 Oktober 2009",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk mengatur secara komprehensif aspek kesehatan, termasuk kesehatan kerja, sebagai respons terhadap dinamika kebutuhan kesehatan masyarakat dan pekerja di era industrialisasi.",
+    "deskripsi": "Undang-Undang yang mengatur penyelenggaraan kesehatan termasuk kesehatan kerja, dengan menekankan pada upaya promotif, preventif, kuratif, dan rehabilitatif di lingkungan kerja.",
+    "jumlah_bab": "23 Bab",
+    "jumlah_pasal": "205 Pasal",
+    "kewajiban_perusahaan": [
+        "Menjamin kesehatan lingkungan kerja sesuai standar",
+        "Menyediakan fasilitas kesehatan dasar di tempat kerja",
+        "Melakukan pemeriksaan kesehatan berkala bagi pekerja",
+        "Mencegah dan menangani penyakit akibat kerja (PAK)",
+        "Menerapkan ergonomi di tempat kerja",
+        "Melaporkan kasus penyakit akibat kerja kepada instansi terkait",
+        "Menyesuaikan beban kerja dengan kondisi kesehatan pekerja",
+        "Menyediakan informasi tentang risiko kesehatan di lingkungan kerja"
+    ],
+    "implementasi": [
+        "Kerjasama dengan puskesmas atau klinik perusahaan",
+        "Pemantauan lingkungan kerja (kualitas udara, kebisingan, dll.)",
+        "Program vaksinasi dan imunisasi pekerja",
+        "Sosialisasi gaya hidup sehat di tempat kerja",
+        "Integrasi program kesehatan kerja dengan SMK3",
+        "Pelatihan petugas P3K di tempat kerja"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU tentang Keselamatan Kerja",
+            "hubungan": "Pelengkap aspek kesehatan kerja"
+        },
+        {
+            "id": "uu13-2003",
+            "judul": "UU tentang Ketenagakerjaan",
+            "hubungan": "Dasar hukum kesehatan pekerja"
+        },
+        {
+            "id": "permenkes48-2016",
+            "judul": "Permenkes tentang Standar Keselamatan dan Kesehatan Kerja Perkantoran",
+            "hubungan": "Implementasi teknis"
+        }
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2009/UU36-2009.pdf"
+}

@@ -1,0 +1,60 @@
+{
+    "id": "uu6-2023",
+    "judul": "Undang-Undang tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang",
+    "nomor": "6",
+    "tahun": "2023",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "30 Desember 2023",
+    "tanggal_berlaku": "30 Desember 2023",
+    "tanggal_rilis": "31 Desember 2023",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Revisi terhadap UU Cipta Kerja (UU 11/2020) setelah putusan MK No. 91/PUU-XVIII/2020, dengan memperbaiki aspek ketenagakerjaan termasuk K3 untuk menyeimbangkan fleksibilitas usaha dan perlindungan pekerja.",
+    "deskripsi": "Undang-Undang revisi UU Cipta Kerja yang mengatur penyederhanaan perizinan termasuk aspek K3 berbasis risiko, dengan penyesuaian ketentuan perlindungan pekerja.",
+    "jumlah_bab": "15 Bab",
+    "jumlah_pasal": "186 Pasal (revisi dari UU 11/2020)",
+    "kewajiban_perusahaan": [
+        "Menerapkan sistem manajemen K3 berbasis risiko (tinggi-sedang-rendah)",
+        "Penyederhanaan perizinan K3 melalui Online Single Submission (OSS) untuk usaha rendah risiko",
+        "Pelaporan kecelakaan kerja secara elektronik terintegrasi",
+        "Pemenuhan standar K3 khusus untuk sektor berisiko tinggi (konstruksi, migas, kimia)",
+        "Pelatihan K3 bersertifikat untuk pekerja sektor risiko tinggi",
+        "Pembentukan P2K3 wajib bagi perusahaan dengan ≥100 pekerja (revised from UU 1/1970)"
+    ],
+    "implementasi": [
+        "Klasifikasi usaha berbasis risiko melalui NIB (Nomor Induk Berusaha)",
+        "Pelatihan K3 daring untuk usaha mikro/kecil",
+        "Insentif perpajakan bagi perusahaan dengan rekam jejak K3 baik",
+        "Audit K3 mandiri untuk usaha menengah/rendah risiko",
+        "Integrasi data K3 dengan sistem SIPK3 Kemnaker"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Penyesuaian ketentuan K3 klasik dengan pendekatan berbasis risiko"
+        },
+        {
+            "id": "uu11-2020",
+            "judul": "UU Cipta Kerja (original)",
+            "hubungan": "Revisi terhadap beberapa pasal kontroversial"
+        },
+        {
+            "id": "pp5-2021",
+            "judul": "PP tentang Penyelenggaraan K3",
+            "hubungan": "Implementasi teknis sistem berbasis risiko"
+        },
+        {
+            "id": "permenaker2-2024",
+            "judul": "Peraturan Menteri Ketenagakerjaan tentang Klasifikasi Usaha Berisiko K3",
+            "hubungan": "Daftar sektor wajib sertifikasi K3"
+        }
+    ],
+    "perubahan_utama_k3": [
+        "Pengurangan persyaratan administratif K3 untuk UMKM (Pasal 69A)",
+        "Sanksi pidana bagi pelanggaran K3 sektor risiko tinggi (Pasal 164B)",
+        "Penguatan peran serikat pekerja dalam pengawasan K3 (Pasal 81C)",
+        "Kewajiban asuransi kecelakaan kerja termasuk pekerja kontrak (Pasal 45D)"
+    ],
+    "status": "Masih berlaku (menggantikan ketentuan UU 11/2020)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2023/UU6-2023.pdf"
+}

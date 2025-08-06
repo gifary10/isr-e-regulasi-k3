@@ -1,0 +1,61 @@
+{
+    "id": "uu22-2001",
+    "judul": "Undang-Undang tentang Minyak dan Gas Bumi",
+    "nomor": "22",
+    "tahun": "2001",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "23 November 2001",
+    "tanggal_berlaku": "23 November 2001",
+    "tanggal_rilis": "23 November 2001",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk mengatur industri migas yang memiliki risiko tinggi terhadap keselamatan pekerja dan lingkungan, menyusul beberapa kecelakaan besar di kilang dan rig lepas pantai Indonesia.",
+    "deskripsi": "Undang-Undang yang mengatur standar keselamatan dan kesehatan kerja di sektor hulu hingga hilir minyak dan gas bumi, termasuk penanganan bahan mudah terbakar dan beracun.",
+    "jumlah_bab": "15 Bab",
+    "jumlah_pasal": "75 Pasal",
+    "kewajiban_perusahaan_k3": [
+        "Menerapkan Sistem Manajemen Keselamatan Migas (SMKM) wajib",
+        "Melakukan Hazard and Operability Study (HAZOP) untuk fasilitas baru",
+        "Pemasangan sistem deteksi kebocoran gas (gas detection system)",
+        "Sertifikasi kompetensi khusus pekerja migas (BOC, HUET, T-BOSIET)",
+        "Simulasi tanggap darurat kebakaran 6 bulan sekali",
+        "Pemeriksaan kesehatan khusus untuk pekerja rig dan kilang",
+        "Penerapan sistem izin kerja panas (hot work permit)"
+    ],
+    "standar_k3_migas": [
+        "Area classification (zone 0-2) untuk pencegahan ledakan",
+        "Safety Instrumented System (SIS) untuk fasilitas kritis",
+        "Personal Protective Equipment (PPE) anti-static untuk zona berbahaya",
+        "Prosedur confined space entry yang ketat",
+        "Emergency Shutdown System (ESD) di seluruh fasilitas"
+    ],
+    "sanksi_k3": [
+        "Pencabutan Kontraktor Kontrak Kerja Sama (KKKS) untuk pelanggaran K3 berat (Pasal 53)",
+        "Denda hingga Rp50 miliar untuk kecelakaan akibat kelalaian (Pasal 67)",
+        "Pidana penjara 2-6 tahun bagi pengurus yang lalai (Pasal 68)"
+    ],
+    "regulasi_terkait_k3": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum umum K3 migas"
+        },
+        {
+            "id": "permenesdm38-2017",
+            "judul": "Peraturan Menteri ESDM tentang SMKM",
+            "hubungan": "Implementasi sistem manajemen keselamatan"
+        },
+        {
+            "id": "sni_api_series",
+            "judul": "Standar API/ASME untuk peralatan migas",
+            "hubungan": "Standar teknis peralatan"
+        }
+    ],
+    "instrumen_k3_migas": [
+        "Dokumen Safety Case untuk fasilitas berisiko tinggi",
+        "Laporan Insiden 24 Jam (MIRU)",
+        "Sertifikasi Fit for Purpose untuk pekerja migas",
+        "Process Hazard Analysis (PHA) Report"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh PP 35/2004 dan PP 55/2009)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2001/UU22-2001.pdf"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "uu1-1970",
+    "judul": "Undang-Undang tentang Keselamatan Kerja",
+    "nomor": "1",
+    "tahun": "1970",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "12 Januari 1970",
+    "tanggal_berlaku": "12 Januari 1970",
+    "tanggal_rilis": "12 Januari 1970",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk sebagai respons atas tingginya angka kecelakaan kerja di Indonesia pada era industrialisasi tahun 1960-an. UU ini menjadi dasar hukum pertama yang mengatur keselamatan kerja secara komprehensif.",
+    "deskripsi": "Undang-Undang tentang Keselamatan Kerja yang mengatur kewajiban pengusaha untuk menjamin keselamatan pekerja dan perlindungan terhadap sumber produksi.",
+    "jumlah_bab": "11 Bab",
+    "jumlah_pasal": "18 Pasal",
+    "kewajiban_perusahaan": [
+        "Menyediakan alat pelindung diri (APD) sesuai risiko kerja",
+        "Melakukan pemeriksaan kesehatan awal dan berkala bagi pekerja",
+        "Memasang tanda peringatan bahaya di area berisiko tinggi",
+        "Membentuk Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) untuk perusahaan dengan ≥100 pekerja",
+        "Melaporkan kecelakaan kerja kepada instansi terkait dalam waktu 2x24 jam"
+    ],
+    "implementasi": [
+        "Pelatihan K3 wajib bagi pekerja dan manajemen",
+        "Audit rutin oleh internal atau pihak ketiga",
+        "Penerapan sistem manajemen K3 berbasis risiko",
+        "Pemantauan lingkungan kerja secara berkala"
+    ],
+    "regulasi_terkait": [
+        {"id": "pp50-2012", "judul": "PP tentang SMK3", "hubungan": "Turunan langsung untuk implementasi SMK3"},
+        {"id": "konvensi_ilo_155", "judul": "Konvensi ILO No. 155 tentang K3", "hubungan": "Dasar internasional"}
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://drive.google.com/file/d/1rdQG6LhNVgKnfYBGCFcbW3ORHLTEpDC9/preview"
+}

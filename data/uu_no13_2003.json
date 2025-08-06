@@ -1,0 +1,57 @@
+{
+    "id": "uu13-2003",
+    "judul": "Undang-Undang tentang Ketenagakerjaan",
+    "nomor": "13",
+    "tahun": "2003",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "25 Maret 2003",
+    "tanggal_berlaku": "25 Maret 2003",
+    "tanggal_rilis": "25 Maret 2003",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk menyempurnakan regulasi ketenagakerjaan yang ada dengan memperhatikan aspek perlindungan pekerja, termasuk Keselamatan dan Kesehatan Kerja (K3), serta menyesuaikan dengan perkembangan zaman.",
+    "deskripsi": "Undang-Undang tentang Ketenagakerjaan yang mengatur hak dan kewajiban pekerja dan pengusaha, termasuk aspek Keselamatan dan Kesehatan Kerja (K3).",
+    "jumlah_bab": "18 Bab",
+    "jumlah_pasal": "193 Pasal",
+    "kewajiban_perusahaan": [
+        "Menjamin keselamatan dan kesehatan kerja bagi semua pekerja",
+        "Menyediakan fasilitas K3 yang memadai sesuai jenis pekerjaan",
+        "Melakukan pembinaan dan pelatihan K3 bagi pekerja",
+        "Menerapkan sistem manajemen K3 di tempat kerja",
+        "Melaporkan kecelakaan kerja sesuai ketentuan",
+        "Memberikan kompensasi dan rehabilitasi bagi korban kecelakaan kerja",
+        "Menyediakan alat pelindung diri (APD) yang sesuai",
+        "Melakukan pemeriksaan kesehatan sebelum, selama, dan setelah bekerja"
+    ],
+    "implementasi": [
+        "Pembentukan unit K3 di perusahaan",
+        "Kerjasama dengan lembaga pelatihan K3 bersertifikat",
+        "Pengembangan sistem pelaporan kecelakaan kerja",
+        "Integrasi program K3 dalam kebijakan perusahaan",
+        "Audit K3 berkala oleh internal dan eksternal",
+        "Sosialisasi regulasi K3 kepada seluruh pekerja"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU tentang Keselamatan Kerja",
+            "hubungan": "Dasar hukum pelaksanaan K3"
+        },
+        {
+            "id": "pp50-2012",
+            "judul": "PP tentang SMK3",
+            "hubungan": "Implementasi sistem manajemen K3"
+        },
+        {
+            "id": "uu11-2020",
+            "judul": "UU tentang Cipta Kerja",
+            "hubungan": "Penyesuaian ketentuan K3"
+        },
+        {
+            "id": "permenaker01-1978",
+            "judul": "Peraturan Menteri Tenaga Kerja tentang Kewajiban Latihan Hiperkes",
+            "hubungan": "Pelatihan khusus bidang K3"
+        }
+    ],
+    "status": "Masih berlaku (dengan beberapa revisi melalui UU Cipta Kerja)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2003/UU13-2003.pdf"
+}

@@ -1,0 +1,124 @@
+{
+    "id": "permenaker25-2015",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja pada Pekerjaan Pengelasan di Tempat Kerja",
+    "nomor": "25",
+    "tahun": "2015",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "28 Desember 2015",
+    "tanggal_berlaku": "1 Juli 2016",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk untuk menyesuaikan dengan perkembangan teknologi pengelasan dan temuan bahaya baru, menggantikan Permenaker No. 1 Tahun 1979 dengan mengadopsi standar ISO 3834-2005 dan AWS Z49.1:2012.",
+    "deskripsi": "Peraturan yang mengatur standar K3 terkini untuk pekerjaan pengelasan mencakup persyaratan teknis, kompetensi personel, dan sistem manajemen keselamatan pengelasan.",
+    "jumlah_bab": "10 Bab",
+    "jumlah_pasal": "42 Pasal",
+    "ruang_lingkup": [
+        "Pengelasan busur manual (SMAW)",
+        "Pengelasan MIG/MAG (GMAW)",
+        "Pengelasan TIG (GTAW)",
+        "Pengelasan submerged arc (SAW)",
+        "Pengelasan flux-cored (FCAW)",
+        "Pengelasan termoplastik",
+        "Pemotongan plasma"
+    ],
+    "persyaratan_keselamatan": [
+        {
+            "aspek": "Peralatan",
+            "ketentuan": [
+                "Inspeksi harian dengan checklist digital",
+                "Pemantauan parameter pengelasan real-time",
+                "Sistem emergency stop otomatis"
+            ]
+        },
+        {
+            "aspek": "Lingkungan Kerja",
+            "ketentuan": [
+                "Ventilasi lokal dengan capture velocity ≥0.5 m/s",
+                "Pagar pengaman otomatis untuk area pengelasan robotik",
+                "Zona eksklusi radiasi UV minimal 5m"
+            ]
+        },
+        {
+            "aspek": "APD Wajib",
+            "ketentuan": [
+                "Helm las auto-darkening (EN 379)",
+                "Sarung tangan tahan panas dan listrik (EN 12477)",
+                "Respirator dengan filter multipurpose (EN 14387)",
+                "Alat monitoring paparan gas real-time"
+            ]
+        }
+    ],
+    "kompetensi_personel": [
+        {
+            "jenis": "Operator Las",
+            "persyaratan": [
+                "Sertifikasi BNSP Level II",
+                "Pelatihan bahaya spesifik proses",
+                "Medical check-up khusus 6 bulanan"
+            ]
+        },
+        {
+            "jenis": "Pengawas Pengelasan",
+            "persyaratan": [
+                "Sertifikasi BNSP Level III",
+                "Pelatihan NDT dasar",
+                "Sertifikasi inspektor peralatan"
+            ]
+        },
+        {
+            "jenis": "Inspektor K3 Pengelasan",
+            "persyaratan": [
+                "Sertifikasi Kemnaker",
+                "Pengalaman 5 tahun",
+                "Pelatihan welding metallurgy"
+            ]
+        }
+    ],
+    "sistem_manajemen": [
+        "Dokumen Welding Procedure Specification (WPS)",
+        "Sistem pencatatan digital parameter pengelasan",
+        "Program audit internal tahunan",
+        "Sistem pelaporan near-miss"
+    ],
+    "pengendalian_risiko": [
+        {
+            "bahaya": "Fume logam",
+            "kontrol": [
+                "Local exhaust ventilation (LEV)",
+                "Penggunaan material rendah fume",
+                "Biomonitoring rutin"
+            ]
+        },
+        {
+            "bahaya": "Radiasi optik",
+            "kontrol": [
+                "Tirai las UV-absorbing",
+                "Area restricted dengan sensor otomatis",
+                "Rotasi pekerjaan"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Administratif",
+            "denda": "Rp50.000.000 - Rp500.000.000"
+        },
+        {
+            "tingkat": "Pidana",
+            "konsekuensi": "Pidana penjara 1-3 tahun sesuai UU No. 1/1970"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "permenaker8-2010",
+            "judul": "Permenaker tentang APD",
+            "hubungan": "Persyaratan alat pelindung khusus pengelasan"
+        },
+        {
+            "id": "permenaker26-2014",
+            "judul": "Permenaker tentang Penyelenggaraan Pelayanan Kesehatan Kerja",
+            "hubungan": "Pemeriksaan kesehatan pekerja las"
+        }
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2015/2015permenaker25.pdf"
+}

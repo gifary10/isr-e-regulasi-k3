@@ -1,0 +1,90 @@
+{
+    "id": "permenakertrans2-1992",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Tata Cara Penunjukan, Kewajiban, dan Hak Ahli Keselamatan dan Kesehatan Kerja",
+    "nomor": "2",
+    "tahun": "1992",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "17 Januari 1992",
+    "tanggal_berlaku": "17 Januari 1992",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk untuk menstandarisasi peran Ahli K3 sebagai pelaksana teknis di perusahaan sesuai UU No. 1 Tahun 1970, mengatasi variasi kompetensi di lapangan.",
+    "deskripsi": "Peraturan yang mengatur kualifikasi, proses penunjukan, dan tanggung jawab Ahli K3 di perusahaan untuk menjamin pelaksanaan K3 yang efektif.",
+    "jumlah_bab": "6 Bab",
+    "jumlah_pasal": "14 Pasal",
+    "jenis_ahli_k3": [
+        {
+            "kategori": "Ahli K3 Umum",
+            "kualifikasi": [
+                "Sertifikasi Kemnaker",
+                "Bertanggung jawab atas implementasi SMK3"
+            ]
+        },
+        {
+            "kategori": "Ahli K3 Spesialis",
+            "subkategori": [
+                "Listrik",
+                "Mekanik",
+                "Konstruksi",
+                "Kimia",
+                "Radiasi"
+            ],
+            "kualifikasi": [
+                "Pengalaman 3 tahun di bidang terkait",
+                "Pelatihan spesialis 120 jam"
+            ]
+        }
+    ],
+    "prosedur_penunjukan": [
+        "Perusahaan mengajukan permohonan ke Disnaker",
+        "Lampirkan dokumen:",
+        [
+            "Fotokopi sertifikat Ahli K3",
+            "Struktur organisasi perusahaan",
+            "Penetapan tugas dari pimpinan"
+        ],
+        "Verifikasi oleh Disnaker dalam 14 hari kerja",
+        "Penerbitan Surat Penunjukan Ahli K3"
+    ],
+    "kewajiban_ahli_k3": [
+        "Menyusun program K3 tahunan",
+        "Melakukan inspeksi rutin bulanan",
+        "Menyelidiki kecelakaan kerja",
+        "Mengembangkan prosedur kerja aman",
+        "Melaporkan pelaksanaan K3 ke Disnaker setiap 6 bulan"
+    ],
+    "hak_ahli_k3": [
+        "Menghentikan pekerjaan berbahaya",
+        "Mengakses semua area kerja",
+        "Mendapatkan data kesehatan pekerja",
+        "Mengusulkan sanksi untuk pelanggaran K3"
+    ],
+    "sanksi": [
+        {
+            "jenis": "Administratif",
+            "contoh": [
+                "Pencabutan penunjukan oleh Disnaker",
+                "Denda hingga Rp10 juta (setara 1992)"
+            ]
+        },
+        {
+            "jenis": "Pidana",
+            "contoh": [
+                "Pasal 15: Pertanggungjawaban pidana jika lalai menyebabkan kecelakaan"
+            ]
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum penunjukan Ahli K3"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker tentang SMK3",
+            "hubungan": "Peran Ahli K3 dalam sistem manajemen"
+        }
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 26/2014)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1992/1992permenakertrans2.pdf"
+}

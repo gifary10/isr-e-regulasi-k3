@@ -1,0 +1,91 @@
+{
+    "id": "permenaker38-2016",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja Pesawat Tenaga dan Produksi",
+    "nomor": "38",
+    "tahun": "2016",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "28 Oktober 2016",
+    "tanggal_berlaku": "1 Januari 2017",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk untuk mengatasi tingginya kecelakaan kerja terkait mesin produksi (32% dari total kecelakaan industri) dengan mengadopsi standar internasional ISO 12100 dan ISO 13849.",
+    "deskripsi": "Peraturan yang mengatur persyaratan teknis K3 untuk peralatan mekanik seperti boiler, turbin, conveyor, dan mesin produksi lainnya di industri manufaktur.",
+    "jumlah_bab": "12 Bab",
+    "jumlah_pasal": "64 Pasal",
+    "ruang_lingkup": [
+        "Pesawat Tenaga: Boiler, turbin, kompresor",
+        "Pesawat Produksi: Mesin press, CNC, conveyor",
+        "Peralatan Bantu: Valve, pipa tekanan, sistem hidrolik"
+    ],
+    "persyaratan_teknis": [
+        {
+            "kategori": "Desain",
+            "aturan": [
+                "Safety factor minimal 4x beban maksimal",
+                "Sistem pengaman ganda (fail-safe)",
+                "Emergency stop dalam jangkauan 3 meter"
+            ]
+        },
+        {
+            "kategori": "Instalasi",
+            "aturan": [
+                "Sertifikat layak operasi dari Ditjen Binwasnaker",
+                "Pengujian hidrostatik untuk peralatan tekanan",
+                "Zona aman (safety perimeter) sesuai jenis mesin"
+            ]
+        },
+        {
+            "kategori": "Operasional",
+            "aturan": [
+                "Lockout-Tagout (LOTO) untuk perawatan",
+                "Logbook pemeliharaan harian",
+                "Pelatihan spesifik operator (8 jam/tahun)"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Pemetaan risiko seluruh peralatan (HIRADC)",
+        "Sertifikasi operator oleh LSP K3",
+        "Pemasangan rambu bahaya dan prosedur darurat",
+        "Audit teknis tahunan oleh inspektur K3",
+        "Pelaporan insiden dalam 1x24 jam"
+    ],
+    "standar_internasional": [
+        "ISO 12100 (Risk assessment)",
+        "ISO 13849 (Safety control systems)",
+        "ASME Boiler & Pressure Vessel Code",
+        "EN 60204 (Electrical safety)"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Ringan",
+            "bentuk": "Teguran tertulis"
+        },
+        {
+            "tingkat": "Sedang",
+            "bentuk": "Denda hingga Rp100 juta"
+        },
+        {
+            "tingkat": "Berat",
+            "bentuk": "Pencabutan izin operasi"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan pesawat tenaga"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker SMK3",
+            "hubungan": "Integrasi sistem manajemen"
+        }
+    ],
+    "lampiran": [
+        "Daftar mesin wajib sertifikasi",
+        "Format laporan inspeksi",
+        "Kriteria inspektur K3 pesawat"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 4/2023)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2016/2016permenaker38.pdf"
+}

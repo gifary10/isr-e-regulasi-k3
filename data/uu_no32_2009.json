@@ -1,0 +1,60 @@
+{
+    "id": "uu32-2009",
+    "judul": "Undang-Undang tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+    "nomor": "32",
+    "tahun": "2009",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "3 Oktober 2009",
+    "tanggal_berlaku": "3 Oktober 2009",
+    "tanggal_rilis": "3 Oktober 2009",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk mengatasi degradasi lingkungan akibat industrialisasi, termasuk dampaknya terhadap kesehatan pekerja dan masyarakat sekitar kawasan industri.",
+    "deskripsi": "Undang-Undang yang mengatur standar pengelolaan lingkungan hidup termasuk pengendalian pencemaran di tempat kerja dan dampaknya terhadap kesehatan pekerja.",
+    "jumlah_bab": "22 Bab",
+    "jumlah_pasal": "127 Pasal",
+    "kewajiban_perusahaan_k3": [
+        "Melakukan Analisis Mengenai Dampak Lingkungan (AMDAL) untuk usaha berisiko tinggi (Pasal 22)",
+        "Memasang sistem pengendalian pencemaran udara/air di fasilitas produksi",
+        "Memantau kadar bahan berbahaya (B3) di lingkungan kerja secara berkala",
+        "Menyediakan alat pelindung diri (APD) khusus untuk pekerja yang terpapar B3",
+        "Melakukan audit lingkungan hidup setiap 3 tahun (untuk kategori tertentu)",
+        "Membuat rencana tanggap darurat kecelakaan lingkungan kerja"
+    ],
+    "implementasi_k3": [
+        "Pemetaan zona risiko lingkungan di area kerja",
+        "Pelatihan penanganan bahan beracun dan berbahaya (B3)",
+        "Integrasi sistem pemantauan emisi real-time",
+        "Kerjasama dengan klinik khusus untuk pemeriksaan paparan B3",
+        "Pengembangan green industry standards"
+    ],
+    "sanksi_k3": [
+        "Pidana penjara 1-3 tahun bagi pelanggar baku mutu lingkungan kerja (Pasal 98)",
+        "Denda hingga Rp3 miliar untuk pelanggaran pengelolaan limbah B3 (Pasal 103)",
+        "Pencabutan izin usaha untuk pelanggaran berat (Pasal 111)"
+    ],
+    "regulasi_terkait_k3": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Pelengkap proteksi kesehatan pekerja dari paparan lingkungan"
+        },
+        {
+            "id": "pp101-2014",
+            "judul": "PP tentang Pengelolaan Limbah Bahan Berbahaya dan Beracun",
+            "hubungan": "Implementasi teknis penanganan B3 di tempat kerja"
+        },
+        {
+            "id": "permenlhk21-2022",
+            "judul": "Peraturan Menteri LHK tentang Baku Mutu Emisi Sumber Tidak Bergerak",
+            "hubungan": "Standar emisi industri"
+        }
+    ],
+    "instrumen_k3": [
+        "Kajian Lingkungan Hidup Strategis (KLHS)",
+        "UKL-UPL (Usaha Pengelolaan Lingkungan - Upaya Pemantauan Lingkungan)",
+        "PROPER (Program Penilaian Peringkat Kinerja Perusahaan)",
+        "Dokumen Lingkungan Hidup untuk Sektor Spesifik"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh UU 11/2020 tentang Cipta Kerja)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2009/UU32-2009.pdf"
+}

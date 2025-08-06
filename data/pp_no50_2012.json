@@ -1,0 +1,34 @@
+{
+    "id": "pp50-2012",
+    "judul": "Peraturan Pemerintah tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja",
+    "nomor": "50",
+    "tahun": "2012",
+    "jenis": "Peraturan Pemerintah",
+    "tanggal_diundangkan": "12 April 2012",
+    "tanggal_berlaku": "12 April 2012",
+    "tanggal_rilis": "12 April 2012",
+    "instansi_penerbit": "Pemerintah Republik Indonesia",
+    "latar_belakang": "Diterbitkan untuk memperkuat implementasi UU No. 1/1970 dengan pendekatan sistemik melalui SMK3, terutama bagi perusahaan berisiko tinggi.",
+    "deskripsi": "Peraturan Pemerintah tentang Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) yang wajib diterapkan di perusahaan dengan kriteria tertentu.",
+    "jumlah_bab": "8 Bab",
+    "jumlah_pasal": "42 Pasal",
+    "kewajiban_perusahaan": [
+        "Menerapkan SMK3 bagi perusahaan dengan ≥100 pekerja atau berisiko tinggi (konstruksi, migas, kimia)",
+        "Melakukan audit SMK3 minimal 1 kali/tahun oleh auditor bersertifikat",
+        "Menyusun kebijakan K3 yang disahkan oleh direksi",
+        "Mendokumentasikan seluruh proses SMK3 (rencana, evaluasi, tindakan perbaikan)",
+        "Melaporkan hasil audit kepada Kementerian Ketenagakerjaan"
+    ],
+    "implementasi": [
+        "Pembentukan tim SMK3 dengan tanggung jawab jelas",
+        "Integrasi SMK3 dengan sistem manajemen perusahaan (ISO 45001)",
+        "Pelatihan auditor internal SMK3",
+        "Penggunaan teknologi digital untuk pemantauan risiko (e.g., aplikasi pelaporan insiden)"
+    ],
+    "regulasi_terkait": [
+        {"id": "uu1-1970", "judul": "UU tentang Keselamatan Kerja", "hubungan": "Dasar hukum utama"},
+        {"id": "iso45001", "judul": "ISO 45001:2018", "hubungan": "Standar internasional"}
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2012/PP50-2012.pdf"
+}

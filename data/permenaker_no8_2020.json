@@ -1,0 +1,100 @@
+{
+    "id": "permenaker8-2020",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+    "nomor": "8",
+    "tahun": "2020",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "10 Juli 2020",
+    "tanggal_berlaku": "1 Januari 2021",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk sebagai respons terhadap temuan 60% penyakit akibat kerja (PAK) di Indonesia disebabkan oleh faktor lingkungan kerja (debu, kebisingan, kimia), menggantikan Permenaker PER.05/MEN/1996.",
+    "deskripsi": "Peraturan yang menetapkan standar lingkungan kerja fisik, kimia, biologi, dan ergonomi untuk mencegah penyakit akibat kerja dan meningkatkan produktivitas.",
+    "jumlah_bab": "9 Bab",
+    "jumlah_pasal": "42 Pasal",
+    "parameter_lingkungan_kerja": [
+        {
+            "jenis": "Fisika",
+            "parameter": [
+                {"nama": "Kebisingan", "nilai_ambang": "85 dBA (8 jam)"},
+                {"nama": "Pencahayaan", "standar": "300-500 lux (kantor)"},
+                {"nama": "Suhu", "rentang": "24-27°C (WBGT)"}
+            ]
+        },
+        {
+            "jenis": "Kimia",
+            "parameter": [
+                {"nama": "Debu", "nilai_ambang": "10 mg/m³ (total)"},
+                {"nama": "CO2", "maksimal": "5000 ppm"},
+                {"nama": "Bahan Karsinogenik", "khusus": "ALARA principle"}
+            ]
+        },
+        {
+            "jenis": "Biologi",
+            "parameter": [
+                {"nama": "Bakteri", "standar": "<500 CFU/m³"},
+                {"nama": "Ventilasi", "pertukaran_udara": "8-12 kali/jam"}
+            ]
+        },
+        {
+            "jenis": "Ergonomi",
+            "parameter": [
+                {"nama": "Workstation", "ketentuan": "Sesuai antropometri"},
+                {"nama": "Angkat Beban", "maksimal": "25 kg (pria), 15 kg (wanita)"}
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Pengukuran lingkungan kerja 6 bulan sekali",
+        "Pemetaan zona risiko (hijau-kuning-merah)",
+        "Kontrol rekayasa (ventilasi, isolasi) untuk area kritis",
+        "Pelatihan pekerja tentang bahaya lingkungan",
+        "Penyediaan alat pemantauan personal (dosimeter kebisingan, dll)"
+    ],
+    "sistem_pemantauan": [
+        {
+            "jenis": "Real-time",
+            "contoh": [
+                "IoT air quality sensors",
+                "Noise mapping dengan dosimeter array"
+            ]
+        },
+        {
+            "jenis": "Periodik",
+            "contoh": [
+                "Pengambilan sampel udara (personal sampling)",
+                "Thermal imaging untuk beban panas"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp5-25 juta",
+            "contoh": "Tidak ada pengukuran lingkungan"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp50-100 juta",
+            "contoh": "Pajanan melebihi NAB 3x berturut-turut"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan lingkungan kerja"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker SMK3",
+            "hubungan": "Integrasi dengan sistem manajemen"
+        }
+    ],
+    "lampiran": [
+        "Metode pengukuran parameter lingkungan",
+        "Format laporan pemantauan",
+        "Daftar laboratorium terakreditasi"
+    ],
+    "status": "Masih berlaku (direvisi parameter kimia oleh Permenaker 12/2023)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2020/2020permenaker8.pdf"
+}

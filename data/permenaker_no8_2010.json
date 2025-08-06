@@ -1,0 +1,149 @@
+{
+    "id": "permenaker8-2010",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Alat Pelindung Diri",
+    "nomor": "8",
+    "tahun": "2010",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "21 Juni 2010",
+    "tanggal_berlaku": "1 Januari 2011",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk untuk menyempurnakan standar APD di Indonesia seiring perkembangan teknologi dan kebutuhan industri, mengacu pada standar internasional ISO 13688:1998 dan Directive 89/686/EEC.",
+    "deskripsi": "Peraturan yang mengatur persyaratan teknis, tata cara pemilihan, dan penggunaan Alat Pelindung Diri (APD) di tempat kerja.",
+    "jumlah_bab": "9 Bab",
+    "jumlah_pasal": "32 Pasal",
+    "jenis_apd": [
+        {
+            "kategori": "Pelindung Kepala",
+            "contoh": [
+                "Helm keselamatan (SNI 1811-2007)",
+                "Pelindung wajah",
+                "Pelindung telinga"
+            ]
+        },
+        {
+            "kategori": "Pelindung Tubuh",
+            "contoh": [
+                "Rompi keselamatan (Kelas I-III)",
+                "Baju tahan api",
+                "Pelampung"
+            ]
+        },
+        {
+            "kategori": "Pelindung Tangan",
+            "contoh": [
+                "Sarung tangan anti cut (EN 388)",
+                "Sarung tangan tahan bahan kimia"
+            ]
+        },
+        {
+            "kategori": "Pelindung Kaki",
+            "contoh": [
+                "Sepatu safety (SNI 7079-2009)",
+                "Sepatu tahan bahan kimia"
+            ]
+        },
+        {
+            "kategori": "Pelindung Pernafasan",
+            "contoh": [
+                "Masker N95",
+                "Respirator",
+                "SCBA"
+            ]
+        }
+    ],
+    "persyaratan_teknis": [
+        {
+            "aspek": "Standar",
+            "ketentuan": [
+                "Wajib berstandar SNI atau setara",
+                "Label berbahasa Indonesia",
+                "Mencantumkan masa kedaluwarsa"
+            ]
+        },
+        {
+            "aspek": "Pemilihan",
+            "ketentuan": [
+                "Berdasarkan penilaian risiko (HIRADC)",
+                "Mempertimbangkan kesesuaian antropometri",
+                "Tingkat proteksi sesuai bahaya"
+            ]
+        },
+        {
+            "aspek": "Penggunaan",
+            "ketentuan": [
+                "Dipakai sesuai petunjuk pabrik",
+                "Pemeriksaan sebelum pemakaian",
+                "Tidak dimodifikasi tanpa persetujuan ahli"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Menyediakan APD sesuai risiko kerja (Pasal 5)",
+        "Melakukan pelatihan penggunaan APD",
+        "Mengganti APD yang rusak/kedaluwarsa",
+        "Menyimpan catatan distribusi APD 5 tahun"
+    ],
+    "hak_dan_kewajiban_pekerja": [
+        {
+            "hak": [
+                "Mendapat APD sesuai risiko",
+                "Menolak kerja jika APD tidak memadai"
+            ]
+        },
+        {
+            "kewajiban": [
+                "Menggunakan APD dengan benar",
+                "Melaporkan kerusakan APD",
+                "Mengikuti pelatihan"
+            ]
+        }
+    ],
+    "sertifikasi": [
+        {
+            "jenis": "APD Produksi Dalam Negeri",
+            "syarat": "Sertifikat Produk Penggunaan Tanda SNI"
+        },
+        {
+            "jenis": "APD Impor",
+            "syarat": "Sertifikat kesesuaian dari LSPro"
+        }
+    ],
+    "pemeliharaan": [
+        {
+            "jenis": "Cleaning",
+            "frekuensi": "Setelah pemakaian atau harian"
+        },
+        {
+            "jenis": "Inspection",
+            "frekuensi": "Bulanan oleh petugas APD"
+        },
+        {
+            "jenis": "Testing",
+            "frekuensi": "Tahunan oleh laboratorium"
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Perusahaan",
+            "denda": "Rp50.000.000 - Rp500.000.000"
+        },
+        {
+            "tingkat": "Pekerja",
+            "denda": "Teguran hingga pemutusan hubungan kerja"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum penyediaan APD"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker SMK3",
+            "hubungan": "Integrasi dengan sistem manajemen"
+        }
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 11 Tahun 2023)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2010/2010permenaker8.pdf"
+}

@@ -1,0 +1,90 @@
+{
+    "id": "permenaker4-1987",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Panitia Pembina Keselamatan dan Kesehatan Kerja",
+    "nomor": "4",
+    "tahun": "1987",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "15 Juni 1987",
+    "tanggal_berlaku": "1 Januari 1988",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai implementasi Pasal 10 UU No. 1 Tahun 1970 untuk memperkuat peran tripartit dalam pengawasan K3, menyusul meningkatnya kasus kecelakaan kerja di era industrialisasi 1980-an.",
+    "deskripsi": "Peraturan yang mengatur pembentukan, tugas, dan fungsi P2K3 sebagai forum kerjasama antara pengusaha, pekerja, dan pemerintah dalam pembinaan K3.",
+    "jumlah_bab": "8 Bab",
+    "jumlah_pasal": "22 Pasal",
+    "pembentukan_p2k3": {
+        "persyaratan": [
+            "Perusahaan dengan ≥100 pekerja",
+            "Industri berisiko tinggi (konstruksi, manufaktur, pertambangan)",
+            "Surat keputusan direktur utama"
+        ],
+        "keanggotaan": [
+            {
+                "jabatan": "Ketua",
+                "dijabat_oleh": "Pengusaha/wakilnya"
+            },
+            {
+                "jabatan": "Wakil Ketua",
+                "dijabat_oleh": "Perwakilan pekerja"
+            },
+            {
+                "jabatan": "Sekretaris",
+                "dijabat_oleh": "Ahli K3 perusahaan"
+            },
+            {
+                "jabatan": "Anggota",
+                "jumlah": "5-15 orang (perwakilan departemen)"
+            }
+        ]
+    },
+    "tugas_dan_fungsi": [
+        "Menyusun program K3 tahunan",
+        "Melakukan pengawasan internal",
+        "Menyelidiki kecelakaan kerja",
+        "Mengembangkan prosedur kerja aman",
+        "Melaporkan pelaksanaan K3 ke Disnaker"
+    ],
+    "mekanisme_kerja": [
+        {
+            "frekuensi": "Bulanan",
+            "aktivitas": "Rapat rutin membahas temuan inspeksi"
+        },
+        {
+            "frekuensi": "Tahunan",
+            "aktivitas": "Evaluasi program dan penyusunan rencana baru"
+        },
+        {
+            "frekuensi": "Khusus",
+            "aktivitas": "Penyelidikan kecelakaan kerja"
+        }
+    ],
+    "hak_dan_wewenang": [
+        "Mengakses semua area kerja",
+        "Menghentikan pekerjaan berbahaya",
+        "Mengusulkan sanksi untuk pelanggaran K3",
+        "Menerima pengaduan pekerja"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Perusahaan",
+            "konsekuensi": "Pencabutan izin operasi sementara jika tidak membentuk P2K3"
+        },
+        {
+            "tingkat": "Anggota",
+            "konsekuensi": "Pemberhentian dari keanggotaan untuk pelanggaran"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pembentukan P2K3"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker SMK3",
+            "hubungan": "Integrasi dengan sistem manajemen"
+        }
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 26 Tahun 2014)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1987/1987permenaker4.pdf"
+}

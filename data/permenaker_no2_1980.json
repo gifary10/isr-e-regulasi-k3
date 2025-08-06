@@ -1,0 +1,127 @@
+{
+    "id": "permenakertrans02-men-1980",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Pemeriksaan Kesehatan Tenaga Kerja dalam Penyelenggaraan Keselamatan dan Kesehatan Kerja",
+    "nomor": "02/MEN/1980",
+    "tahun": "1980",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "15 Maret 1980",
+    "tanggal_berlaku": "1 Juli 1980",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk sebagai implementasi Pasal 8 UU No. 1 Tahun 1970 untuk menanggapi tingginya penyakit akibat kerja di era industrialisasi, dengan mengacu pada ILO Convention No. 161 tentang Pelayanan Kesehatan Kerja (1985).",
+    "deskripsi": "Peraturan yang mengatur tata cara pemeriksaan kesehatan tenaga kerja sebagai bagian integral dari sistem K3 di perusahaan.",
+    "jumlah_bab": "6 Bab",
+    "jumlah_pasal": "18 Pasal",
+    "jenis_pemeriksaan": [
+        {
+            "tipe": "Awal",
+            "cakupan": [
+                "Pemeriksaan fisik lengkap",
+                "Tes laboratorium (darah, urine)",
+                "Rontgen thorax",
+                "Audiometri",
+                "Psikotes"
+            ],
+            "tujuan": "Penempatan sesuai kondisi kesehatan"
+        },
+        {
+            "tipe": "Berkala",
+            "frekuensi": [
+                {
+                    "risiko": "Rendah",
+                    "interval": "1 tahun sekali"
+                },
+                {
+                    "risiko": "Tinggi",
+                    "interval": "6 bulan sekali"
+                }
+            ],
+            "tujuan": "Deteksi dini penyakit akibat kerja"
+        },
+        {
+            "tipe": "Khusus",
+            "indikasi": [
+                "Setelah cuti sakit >14 hari",
+                "Setelah kecelakaan kerja",
+                "Sebelum pensiun"
+            ],
+            "tujuan": "Evaluasi kemampuan kerja"
+        }
+    ],
+    "kewajiban_perusahaan": [
+        {
+            "ukuran": "Semua perusahaan",
+            "wajib": [
+                "Pemeriksaan kesehatan awal",
+                "Penyediaan fasilitas P3K"
+            ]
+        },
+        {
+            "ukuran": "≥100 pekerja",
+            "wajib": [
+                "Klinik perusahaan",
+                "Pemeriksaan berkala",
+                "Rekam medis pekerja"
+            ]
+        },
+        {
+            "ukuran": "Industri berisiko tinggi",
+            "wajib": [
+                "Pemeriksaan khusus",
+                "Dokter perusahaan",
+                "Alat pelindung diri khusus"
+            ]
+        }
+    ],
+    "standar_tenaga_medis": [
+        {
+            "jenis": "Dokter Perusahaan",
+            "kualifikasi": [
+                "Surat izin praktek",
+                "Pelatihan hiperkes 120 jam"
+            ]
+        },
+        {
+            "jenis": "Paramedis",
+            "kualifikasi": [
+                "Sertifikat pelatihan K3",
+                "Pengalaman 2 tahun"
+            ]
+        }
+    ],
+    "pencatatan": [
+        "Buku kesehatan per pekerja",
+        "Laporan triwulan ke Depnaker",
+        "Dokumen rahasia medis (disimpan 10 tahun)"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran administrasi",
+            "denda": "Rp1.000.000 (nilai 1980)"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp5.000.000",
+            "tambahan": "Penghentian operasi"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pemeriksaan kesehatan"
+        },
+        {
+            "id": "permenaker2-1983",
+            "judul": "Permenaker tentang Pelayanan Kesehatan Kerja",
+            "hubungan": "Pengembangan lebih lanjut"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 26 Tahun 2014",
+    "catatan_sejarah": "Menjadi dasar pengembangan sistem kesehatan kerja di Indonesia dengan memperkenalkan konsep:",
+    "kontribusi_penting": [
+        "Kartu kesehatan pekerja",
+        "Sistem rujukan rumah sakit industri",
+        "Kewajiban dokter perusahaan"
+    ],
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1980/1980permenakertrans02men.pdf"
+}

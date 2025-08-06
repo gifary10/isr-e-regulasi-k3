@@ -1,0 +1,109 @@
+{
+    "id": "permenaker9-2018",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja di Lingkungan Kerja yang Mengandung Bahaya Paling Berat",
+    "nomor": "9",
+    "tahun": "2018",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "6 Juli 2018",
+    "tanggal_berlaku": "1 Januari 2019",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk sebagai respons terhadap tingginya kasus kecelakaan kerja di industri B3 (bahan berbahaya dan beracun) yang mencapai 38% dari total kecelakaan industri tahun 2015-2017.",
+    "deskripsi": "Peraturan yang mengatur standar khusus K3 untuk industri dengan potensi bahaya paling berat seperti kimia, petrokimia, dan nuklir, termasuk pengendalian paparan dan tanggap darurat.",
+    "jumlah_bab": "12 Bab",
+    "jumlah_pasal": "45 Pasal",
+    "lingkup_industri": [
+        "Pabrik kimia dasar",
+        "Penyimpanan & pengolahan minyak/gas",
+        "Pembangkit listrik tenaga nuklir",
+        "Pengolahan limbah B3",
+        "Produksi pestisida"
+    ],
+    "persyaratan_khusus": [
+        {
+            "aspek": "Manajemen",
+            "kewajiban": [
+                "Pembentukan tim ahli K3 B3 bersertifikat",
+                "Sistem manajemen keselamatan proses (PSM)",
+                "Asuransi tanggung jawab kecelakaan nuklir"
+            ]
+        },
+        {
+            "aspek": "Teknis",
+            "kewajiban": [
+                "Zona eksklusi dengan radius minimal 500m",
+                "Sistem deteksi kebocoran real-time",
+                "Double containment untuk bahan karsinogen"
+            ]
+        },
+        {
+            "aspek": "Kesehatan",
+            "kewajiban": [
+                "Pemeriksaan kesehatan khusus (biomonitoring)",
+                "Bank data kesehatan pekerja seumur hidup",
+                "Fasilitas dekontaminasi on-site"
+            ]
+        }
+    ],
+    "standar_paparan": [
+        {
+            "jenis_bahan": "Radioaktif",
+            "nilai_ambang": "1 mSv/tahun (dosis efektif)"
+        },
+        {
+            "jenis_bahan": "Karsinogen",
+            "nilai_ambang": "ALARA (As Low As Reasonably Achievable)"
+        },
+        {
+            "jenis_bahan": "Korosit",
+            "nilai_ambang": "1 ppm (udara)"
+        }
+    ],
+    "sistem_tanggap_darurat": [
+        "Rencana kontinjensi tingkat 3 (nasional)",
+        "Simulasi triwulanan dengan instansi terkait",
+        "Sarana evakuasi khusus (shelter radiasi)",
+        "Pusat kendali darurat 24 jam"
+    ],
+    "sertifikasi": [
+        {
+            "jenis": "Ahli K3 B3",
+            "persyaratan": [
+                "Pengalaman 5 tahun di industri terkait",
+                "Pelatihan 200 jam",
+                "Uji kompetensi nasional"
+            ]
+        },
+        {
+            "jenis": "Operator",
+            "persyaratan": [
+                "Pelatihan 80 jam",
+                "Sertifikasi kompetensi khusus"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp100-500 juta"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp1-5 miliar",
+            "lainnya": "Pencabutan izin operasi"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu32-2009",
+            "judul": "UU Perlindungan Lingkungan Hidup",
+            "hubungan": "Pengelolaan limbah B3"
+        },
+        {
+            "id": "permenaker38-2016",
+            "judul": "Permenaker Pesawat Tenaga dan Produksi",
+            "hubungan": "Integrasi sistem keselamatan proses"
+        }
+    ],
+    "status": "Masih berlaku (direvisi parameter kimia oleh Permenaker 12/2023)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2018/2018permenaker9.pdf"
+}

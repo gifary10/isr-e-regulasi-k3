@@ -1,0 +1,33 @@
+{
+    "id": "uu11-2020",
+    "judul": "Undang-Undang tentang Cipta Kerja",
+    "nomor": "11",
+    "tahun": "2020",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "2 November 2020",
+    "tanggal_berlaku": "2 November 2020",
+    "tanggal_rilis": "2 November 2020",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Bagian dari reformasi struktural untuk meningkatkan investasi dan daya saing ekonomi, dengan menyederhanakan regulasi ketenagakerjaan termasuk K3.",
+    "deskripsi": "Undang-Undang tentang Cipta Kerja yang mengatur berbagai aspek ketenagakerjaan termasuk penyederhanaan perizinan dan perlindungan pekerja.",
+    "jumlah_bab": "15 Bab",
+    "jumlah_pasal": "186 Pasal",
+    "kewajiban_perusahaan": [
+        "Menyederhanakan perizinan K3 melalui sistem OSS (Online Single Submission)",
+        "Meningkatkan kompetensi pekerja melalui pelatihan bersertifikat",
+        "Menyesuaikan standar K3 dengan jenis dan skala usaha (berbasis risiko)",
+        "Melaporkan pelaksanaan K3 dalam laporan tahunan perusahaan"
+    ],
+    "implementasi": [
+        "Pelatihan daring untuk sertifikasi kompetensi pekerja",
+        "Integrasi database K3 dengan sistem OSS",
+        "Penerapan insentif bagi perusahaan dengan rekam jejak K3 baik",
+        "Sosialisasi regulasi melalui platform digital"
+    ],
+    "regulasi_terkait": [
+        {"id": "uu1-1970", "judul": "UU tentang Keselamatan Kerja", "hubungan": "Penyesuaian ketentuan"},
+        {"id": "uu13-2003", "judul": "UU tentang Ketenagakerjaan", "hubungan": "Revisi hak pekerja"}
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2020/UU11-2020.pdf"
+}

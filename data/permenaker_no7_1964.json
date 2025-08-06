@@ -1,0 +1,83 @@
+{
+    "id": "permenaker7-1964",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Syarat Kesehatan, Kebersihan serta Penerangan di Tempat Kerja",
+    "nomor": "7",
+    "tahun": "1964",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "15 Agustus 1964",
+    "tanggal_berlaku": "1 Januari 1965",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai regulasi kesehatan kerja pertama pasca kemerdekaan untuk menanggapi kondisi kerja yang tidak sehat di era industrialisasi awal, mengadopsi standar ILO Recommendation No. 97 (1953).",
+    "deskripsi": "Peraturan yang menetapkan persyaratan dasar kesehatan lingkungan kerja termasuk sanitasi, ventilasi, dan pencahayaan di berbagai jenis tempat kerja.",
+    "jumlah_bab": "6 Bab",
+    "jumlah_pasal": "18 Pasal",
+    "persyaratan_kesehatan": [
+        {
+            "aspek": "Ventilasi",
+            "standar": [
+                "Pertukaran udara minimal 8 kali/jam",
+                "Suhu kerja maksimal 32°C",
+                "Kelembaban relatif 40-70%"
+            ]
+        },
+        {
+            "aspek": "Sanitasi",
+            "standar": [
+                "1 toilet per 25 pekerja (terpisah gender)",
+                "Air bersih minimal 20 liter/pekerja/hari",
+                "Tempat cuci tangan dengan sabun"
+            ]
+        },
+        {
+            "aspek": "Pencahayaan",
+            "standar": [
+                "Kantor: minimal 200 lux",
+                "Area produksi: minimal 300 lux",
+                "Pekerjaan presisi: minimal 500 lux"
+            ]
+        }
+    ],
+    "kewajiban_pengusaha": [
+        "Penyediaan air minum yang memadai",
+        "Pemeliharaan kebersihan harian",
+        "Pengawasan kondisi kesehatan lingkungan",
+        "Pelaporan kondisi tidak sehat ke Dinas Kesehatan"
+    ],
+    "pengaturan_khusus": [
+        {
+            "jenis_tempat_kerja": "Pabrik",
+            "tambahan_persyaratan": [
+                "Pemisahan area produksi dan istirahat",
+                "Penyediaan shower untuk industri kotor"
+            ]
+        },
+        {
+            "jenis_tempat_kerja": "Perkantoran",
+            "tambahan_persyaratan": [
+                "Jarak antar meja minimal 1 meter",
+                "Pencahayaan alami melalui jendela"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp100.000 (nilai 1964)"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp1.000.000",
+            "tambahan": "Penutupan sementara"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu14-1969",
+            "judul": "UU tentang Ketentuan-ketentuan Pokok mengenai Tenaga Kerja",
+            "hubungan": "Dasar hukum perlindungan pekerja"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 5 Tahun 1985",
+    "catatan_sejarah": "Regulasi ini menjadi fondasi pengembangan standar kesehatan kerja di Indonesia dan mendorong lahirnya UU No. 1 Tahun 1970 tentang Keselamatan Kerja.",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1964/1964permenaker7.pdf"
+}

@@ -1,0 +1,85 @@
+{
+    "id": "permenaker4-1985",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Pesawat Tenaga dan Produksi",
+    "nomor": "4",
+    "tahun": "1985",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "15 Juli 1985",
+    "tanggal_berlaku": "1 Januari 1986",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai implementasi UU No. 1 Tahun 1970 untuk mengendalikan tingginya kecelakaan kerja terkait mesin produksi era industrialisasi 1980-an, dengan mengadopsi standar ASME dan DIN.",
+    "deskripsi": "Peraturan yang mengatur persyaratan keselamatan untuk pesawat tenaga (boiler, turbin) dan produksi (press machine, conveyor) termasuk desain, instalasi, dan operasional.",
+    "jumlah_bab": "8 Bab",
+    "jumlah_pasal": "28 Pasal",
+    "ruang_lingkup": [
+        "Pesawat Tenaga: Ketel uap, bejana tekan, kompresor",
+        "Pesawat Produksi: Mesin bubut, press, giling",
+        "Peralatan Bantu: Pipa, valve, sistem hidrolik"
+    ],
+    "persyaratan_teknis": [
+        {
+            "kategori": "Desain",
+            "ketentuan": [
+                "Faktor keamanan minimal 4x beban kerja",
+                "Material bersertifikat ASTM/DIN",
+                "Sistem pengaman ganda (safety valve + rupture disc)"
+            ]
+        },
+        {
+            "kategori": "Instalasi",
+            "ketentuan": [
+                "Sertifikat layak operasi dari Depnaker",
+                "Uji hidrostatik 1.5x tekanan kerja",
+                "Jarak minimal 5m dari area hunian"
+            ]
+        },
+        {
+            "kategori": "Operasional",
+            "ketentuan": [
+                "Logbook harian wajib",
+                "Kalibrasi alat pengukur tekanan bulanan",
+                "Pelatihan operator 40 jam bersertifikat"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Penunjukan pengawas pesawat bersertifikat",
+        "Pemasangan rambu peringatan bahaya",
+        "Pemeriksaan berkala oleh inspektur Depnaker",
+        "Pelaporan kecelakaan dalam 2x24 jam"
+    ],
+    "standar_referensi": [
+        "ASME Boiler & Pressure Vessel Code Section VIII",
+        "DIN 15018 (Crane Design Standard)",
+        "ISO/R 831 (Pressure Vessel Rules)"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Administratif",
+            "bentuk": [
+                "Peringatan tertulis",
+                "Denda maksimal Rp5 juta (nilai 1985)",
+                "Penyegelan peralatan"
+            ]
+        },
+        {
+            "tingkat": "Pidana",
+            "bentuk": "Pasal 15 UU No.1/1970 (penjara 1 tahun)"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan pesawat"
+        },
+        {
+            "id": "permenakerper.01-men-1982",
+            "judul": "Permenaker tentang Pengawasan Khusus",
+            "hubungan": "Mekanisme inspeksi"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 38 Tahun 2016",
+    "catatan_transisi": "Peralatan yang sudah terpasang sebelum 2016 tetap mengacu standar ini hingga masa pakai berakhir",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1985/1985permenaker4.pdf"
+}

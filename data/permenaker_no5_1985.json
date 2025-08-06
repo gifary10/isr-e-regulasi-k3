@@ -1,0 +1,114 @@
+{
+    "id": "permenaker5-1985",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Keselamatan dan Kesehatan Kerja di Tempat Kerja",
+    "nomor": "5",
+    "tahun": "1985",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "12 Juni 1985",
+    "tanggal_berlaku": "1 Januari 1986",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk untuk menyempurnakan standar kesehatan kerja yang lebih komprehensif sesuai perkembangan industri 1980-an, menggantikan Permenaker No. 7 Tahun 1964 dengan mengadopsi ILO Convention 155 (1981) dan WHO Environmental Health Criteria.",
+    "deskripsi": "Peraturan yang mengatur persyaratan keselamatan dan kesehatan kerja mencakup lingkungan fisik, kimia, biologi, dan ergonomi di tempat kerja.",
+    "jumlah_bab": "9 Bab",
+    "jumlah_pasal": "32 Pasal",
+    "lingkup_pengaturan": [
+        "Kesehatan lingkungan kerja",
+        "Kebersihan industri",
+        "Pengendalian faktor risiko",
+        "Fasilitas kesehatan kerja"
+    ],
+    "persyaratan_utama": [
+        {
+            "aspek": "Kualitas Udara",
+            "standar": [
+                "Debu total <10 mg/m³",
+                "CO₂ <5000 ppm",
+                "Ventilasi alami/mekanis 12 ACH"
+            ]
+        },
+        {
+            "aspek": "Pencahayaan",
+            "standar": [
+                "Perkantoran: 300-750 lux",
+                "Area produksi: 500-1000 lux",
+                "Pekerjaan presisi: >1000 lux"
+            ]
+        },
+        {
+            "aspek": "Sanitasi",
+            "standar": [
+                "Toilet 1:15 (pria), 1:10 (wanita)",
+                "Air bersih 25 liter/pekerja/hari",
+                "Tempat cuci dengan air mengalir"
+            ]
+        }
+    ],
+    "fasilitas_wajib": [
+        {
+            "ukuran_perusahaan": "≥100 pekerja",
+            "wajib": [
+                "Klinik perusahaan",
+                "Ruang istirahat terpisah",
+                "Pemeriksaan kesehatan berkala"
+            ]
+        },
+        {
+            "ukuran_perusahaan": "Semua perusahaan",
+            "wajib": [
+                "Kotak P3K lengkap",
+                "Air minum yang memadai",
+                "Tempat sampah tertutup"
+            ]
+        }
+    ],
+    "pengendalian_risiko": [
+        {
+            "jenis": "Fisik",
+            "tindakan": [
+                "Peredam kebisingan >85 dBA",
+                "Pelindung radiasi",
+                "Pengaturan suhu (WBGT)"
+            ]
+        },
+        {
+            "jenis": "Kimia",
+            "tindakan": [
+                "Ventilasi lokal untuk bahan berbahaya",
+                "Penyimpanan bahan kimia sesuai kelas",
+                "APD khusus"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Pemantauan lingkungan kerja 6 bulan sekali",
+        "Pencatatan kondisi kesehatan pekerja",
+        "Pelatihan higiene industri dasar",
+        "Pelaporan kejadian tidak normal"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp5.000.000 (nilai 1985)"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp25.000.000",
+            "tambahan": "Penutupan sementara"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan"
+        },
+        {
+            "id": "permenaker2-1983",
+            "judul": "Permenaker Pelayanan Kesehatan Kerja",
+            "hubungan": "Implementasi kesehatan kerja"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 8 Tahun 2020",
+    "catatan_sejarah": "Regulasi ini menjadi dasar pengembangan Sistem Manajemen K3 (Permenaker 5/1996) dan standar kesehatan kerja modern di Indonesia.",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1985/1985permenaker5.pdf"
+}

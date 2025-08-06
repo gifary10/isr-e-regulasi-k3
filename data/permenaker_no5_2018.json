@@ -1,0 +1,34 @@
+{
+    "id": "permenaker5-2018",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja",
+    "nomor": "5",
+    "tahun": "2018",
+    "jenis": "Peraturan Menteri Ketenagakerjaan",
+    "tanggal_diundangkan": "2 April 2018",
+    "tanggal_berlaku": "2 April 2018",
+    "tanggal_rilis": "2 April 2018",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan",
+    "latar_belakang": "Dikeluarkan untuk menyesuaikan standar lingkungan kerja dengan perkembangan industri modern dan risiko baru seperti paparan kimia/radiasi.",
+    "deskripsi": "Peraturan tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja yang mengatur persyaratan lingkungan kerja yang aman dan sehat.",
+    "jumlah_bab": "6 Bab",
+    "jumlah_pasal": "25 Pasal",
+    "kewajiban_perusahaan": [
+        "Memastikan kebisingan di tempat kerja ≤85 dB(A) selama 8 jam kerja",
+        "Menyediakan ventilasi alami/mekanis untuk sirkulasi udara",
+        "Memasang alat pengendali debu dan gas berbahaya di area produksi",
+        "Melakukan pengukuran lingkungan kerja (fisika, kimia, biologi) setiap 6 bulan",
+        "Menyediakan fasilitas P3K dan prosedur darurat"
+    ],
+    "implementasi": [
+        "Pemetaan risiko lingkungan kerja dengan matriks risiko",
+        "Penggunaan alat pemantau real-time (e.g., sensor kualitas udara)",
+        "Pelatihan pekerja tentang bahaya faktor fisika/kimia/biologi",
+        "Kolaborasi dengan klinik kerja untuk pemantauan kesehatan pekerja"
+    ],
+    "regulasi_terkait": [
+        {"id": "pp50-2012", "judul": "PP tentang SMK3", "hubungan": "Integrasi dengan sistem manajemen"},
+        {"id": "kepmenaker_2020", "judul": "Kepmenaker No. 261 Tahun 2020", "hubungan": "Nilai ambang batas paparan"}
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/bn/2018/bn436-2018.pdf"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "uu2-2017",
+    "judul": "Undang-Undang tentang Jasa Konstruksi",
+    "nomor": "2",
+    "tahun": "2017",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "16 Januari 2017",
+    "tanggal_berlaku": "16 Januari 2017",
+    "tanggal_rilis": "16 Januari 2017",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk meningkatkan standar keselamatan di sektor konstruksi yang menyumbang 32% kecelakaan kerja nasional, dengan mengadopsi best practices internasional seperti ILO C167.",
+    "deskripsi": "Undang-Undang yang mengatur standar K3 khusus untuk proyek konstruksi, termasuk manajemen risiko tinggi seperti kerja di ketinggian, penggalian, dan penggunaan alat berat.",
+    "jumlah_bab": "15 Bab",
+    "jumlah_pasal": "64 Pasal",
+    "kewajiban_k3_konstruksi": [
+        "Penyusunan dokumen Site Specific Safety Plan (SSSP) wajib",
+        "Penunjukan Ahli K3 Konstruksi bersertifikat Kemnaker",
+        "Penerapan sistem izin kerja khusus (working at height, confined space, hot work)",
+        "Audit K3 harian oleh pengawas lapangan",
+        "Pemasangan pagar pengaman dan net safety minimal 3 tingkat",
+        "Pelaporan insiden dalam 1x24 jam melalui Sistem Pelaporan K3 Konstruksi Nasional"
+    ],
+    "standar_k3_konstruksi": [
+        "Fall arrest system untuk kerja di ketinggian >1.8 meter",
+        "Slope stability monitoring untuk galian >1.5 meter",
+        "Trench box untuk penggalian >1.2 meter",
+        "Daily Tool Box Meeting sebelum memulai pekerjaan",
+        "Lockout-Tagout (LOTO) untuk perawatan alat berat"
+    ],
+    "sanksi_k3": [
+        "Penghentian sementara proyek untuk pelanggaran kritikal (Pasal 54)",
+        "Denda hingga Rp500 juta per pelanggaran K3 (Pasal 60)",
+        "Pencabutan SBU (Sertifikat Badan Usaha) untuk kecelakaan fatal berulang",
+        "Pidana kurungan 1-3 tahun bagi pengurus yang lalai (Pasal 61)"
+    ],
+    "regulasi_terkait_k3": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum umum K3 konstruksi"
+        },
+        {
+            "id": "permenpupr09-2021",
+            "judul": "Peraturan Menteri PUPR tentang Pedoman Sistem Manajemen K3 Konstruksi",
+            "hubungan": "Implementasi SMK3 konstruksi"
+        },
+        {
+            "id": "sni_iso45001",
+            "judul": "SNI ISO 45001:2018 Sistem Manajemen K3",
+            "hubungan": "Standar internasional"
+        }
+    ],
+    "instrumen_k3_konstruksi": [
+        "Dokumen Risk Assessment Method Statement (RAMS)",
+        "Laporan Harian Pengawasan K3",
+        "Sertifikasi Kompetensi K3 Konstruksi (AK3U, AK3K)",
+        "As Built Drawing fasilitas K3"
+    ],
+    "persyaratan_khusus": [
+        "Kelas kompetensi perusahaan ditentukan oleh rekam jejak K3",
+        "Asuransi tenaga kerja konstruksi wajib mencakup risiko tinggi",
+        "Kewajiban teknologi Building Information Modeling (BIM) untuk proyek >Rp50 miliar"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh PP 14/2021)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2017/UU2-2017.pdf"
+}

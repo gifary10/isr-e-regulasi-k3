@@ -1,0 +1,54 @@
+{
+    "id": "uu24-2011",
+    "judul": "Undang-Undang tentang Badan Penyelenggara Jaminan Sosial",
+    "nomor": "24",
+    "tahun": "2011",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "25 November 2011",
+    "tanggal_berlaku": "1 Januari 2014",
+    "tanggal_rilis": "25 November 2011",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk menyelenggarakan program jaminan sosial nasional, termasuk perlindungan terhadap risiko kecelakaan kerja dan kematian akibat kerja, sebagai implementasi dari amanat konstitusi.",
+    "deskripsi": "Undang-Undang yang mengatur tentang penyelenggaraan jaminan sosial termasuk program Jaminan Kecelakaan Kerja (JKK) dan Jaminan Kematian (JKm) yang menjadi tanggung jawab BPJS Ketenagakerjaan.",
+    "jumlah_bab": "22 Bab",
+    "jumlah_pasal": "75 Pasal",
+    "kewajiban_perusahaan": [
+        "Mendaftarkan seluruh pekerja sebagai peserta BPJS Ketenagakerjaan",
+        "Membayar iuran Jaminan Kecelakaan Kerja (JKK) secara rutin",
+        "Melaporkan kecelakaan kerja kepada BPJS dalam waktu 2x24 jam",
+        "Bekerjasama dengan BPJS dalam proses rehabilitasi korban kecelakaan kerja",
+        "Menyediakan data pekerja untuk kepentingan klaim JKK/JKm",
+        "Memfasilitasi pemeriksaan oleh BPJS untuk verifikasi klaim"
+    ],
+    "implementasi": [
+        "Integrasi sistem pelaporan kecelakaan kerja dengan BPJS",
+        "Sosialisasi hak pekerja terkait JKK dan JKm",
+        "Pelatihan prosedur tanggap darurat kecelakaan kerja",
+        "Kerjasama dengan rumah sakit rekanan BPJS",
+        "Pembuatan papan informasi BPJS Ketenagakerjaan di tempat kerja"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU tentang Keselamatan Kerja",
+            "hubungan": "Dasar pencegahan kecelakaan kerja"
+        },
+        {
+            "id": "uu13-2003",
+            "judul": "UU tentang Ketenagakerjaan",
+            "hubungan": "Dasar hak pekerja atas jaminan sosial"
+        },
+        {
+            "id": "pp44-2015",
+            "judul": "PP tentang Penyelenggaraan Program Jaminan Kecelakaan Kerja",
+            "hubungan": "Implementasi teknis JKK"
+        },
+        {
+            "id": "permenaker19-2018",
+            "judul": "Peraturan Menteri Ketenagakerjaan tentang Tata Cara Pengenaan Sanksi Administratif dalam Penyelenggaraan Jaminan Sosial Ketenagakerjaan",
+            "hubungan": "Penegakan hukum"
+        }
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2011/UU24-2011.pdf"
+}

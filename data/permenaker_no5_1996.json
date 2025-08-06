@@ -1,0 +1,90 @@
+{
+    "id": "permenaker5-1996",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Sistem Manajemen Keselamatan dan Kesehatan Kerja",
+    "nomor": "5",
+    "tahun": "1996",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "27 Mei 1996",
+    "tanggal_berlaku": "27 Mei 1996",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai implementasi UU No. 1 Tahun 1970 untuk menciptakan kerangka sistematis dalam pengelolaan K3, mengadopsi konsep PDCA (Plan-Do-Check-Act) dari standar internasional.",
+    "deskripsi": "Peraturan yang mewajibkan penerapan SMK3 di perusahaan dengan ≥100 pekerja atau berisiko tinggi, mencakup 5 elemen utama dan 66 kriteria penilaian.",
+    "jumlah_bab": "8 Bab",
+    "jumlah_pasal": "23 Pasal",
+    "elemen_smk3": [
+        {
+            "nama": "Kebijakan K3",
+            "kriteria": [
+                "Dokumen kebijakan K3 yang ditandatangani pimpinan",
+                "Alokasi anggaran K3 minimum 2% dari payroll"
+            ]
+        },
+        {
+            "nama": "Perencanaan",
+            "kriteria": [
+                "Identifikasi bahaya dan penilaian risiko (HIRA)",
+                "Program tahunan K3 dengan indikator kinerja"
+            ]
+        },
+        {
+            "nama": "Implementasi",
+            "kriteria": [
+                "Struktur organisasi K3 dengan tanggung jawab jelas",
+                "Pelatihan K3 untuk semua level"
+            ]
+        },
+        {
+            "nama": "Pemantauan",
+            "kriteria": [
+                "Inspeksi rutin dan audit internal 6 bulan sekali",
+                "Analisis kecelakaan dengan metode 5 Why"
+            ]
+        },
+        {
+            "nama": "Tinjauan Ulang",
+            "kriteria": [
+                "Rapat tinjauan manajemen tahunan",
+                "Peningkatan berkelanjutan berdasarkan temuan audit"
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Pembentukan P2K3 untuk perusahaan ≥100 pekerja",
+        "Penunjukan Ahli K3 Umum bersertifikat",
+        "Penerapan 5 elemen SMK3 secara konsisten",
+        "Pelaporan triwulanan pelaksanaan SMK3 ke Disnaker"
+    ],
+    "sertifikasi": {
+        "tingkat": ["Dasar", "Madya", "Utama"],
+        "badan_penilai": "Dinas Tenaga Kerja Provinsi",
+        "masa_berlaku": "3 tahun",
+        "persyaratan": [
+            "Nilai audit ≥70% untuk sertifikasi dasar",
+            "Zero accident dalam 1 tahun untuk tingkat utama"
+        ]
+    },
+    "sanksi": [
+        "Teguran tertulis untuk nilai audit 60-69%",
+        "Pembekuan operasional sementara jika nilai <60%",
+        "Denda administratif hingga Rp50 juta"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum penerapan SMK3"
+        },
+        {
+            "id": "pp50-2012",
+            "judul": "PP tentang Penerapan SMK3",
+            "hubungan": "Penguatan aspek hukum"
+        },
+        {
+            "id": "kepmenaker155-2021",
+            "judul": "Keputusan Menteri Ketenagakerjaan tentang Pedoman Audit SMK3",
+            "hubungan": "Petunjuk teknis audit"
+        }
+    ],
+    "status": "Masih berlaku (dikompilasi dengan Permenaker 38/2021)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1996/1996permenaker5.pdf"
+}

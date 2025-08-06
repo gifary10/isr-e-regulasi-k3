@@ -1,0 +1,98 @@
+{
+    "id": "permenaker2-2023",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Standar Kompetensi Kerja Nasional Indonesia Bidang Keselamatan dan Kesehatan Kerja",
+    "nomor": "2",
+    "tahun": "2023",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "10 Januari 2023",
+    "tanggal_berlaku": "1 Juli 2023",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk untuk menyelaraskan kompetensi SDM K3 dengan perkembangan industri 4.0 dan kebutuhan pasar kerja, sekaligus mengintegrasikan dengan kerangka kualifikasi nasional.",
+    "deskripsi": "Peraturan yang menetapkan 56 skema sertifikasi kompetensi K3 terbaru mencakup bidang tradisional hingga emerging risks seperti nanoteknologi dan energi terbarukan.",
+    "jumlah_bab": "9 Bab",
+    "jumlah_pasal": "28 Pasal",
+    "struktur_kompetensi": {
+        "level": ["1-9 (KKNI)"],
+        "domain": [
+            {
+                "nama": "Teknis K3",
+                "contoh": [
+                    "Pengendalian bahaya fisika-kimia",
+                    "Manajemen alat pelindung diri"
+                ]
+            },
+            {
+                "nama": "Manajemen Risiko",
+                "contoh": [
+                    "Penilaian risiko digital",
+                    "Business continuity planning"
+                ]
+            },
+            {
+                "nama": "Hukum & Kepatuhan",
+                "contoh": [
+                    "Audit regulasi K3",
+                    "Due diligence hukum"
+                ]
+            }
+        ]
+    },
+    "skema_baru": [
+        {
+            "bidang": "K3 Digital",
+            "skema": [
+                "Analis keamanan siber industri",
+                "Spesialis IoT untuk pemantauan K3"
+            ]
+        },
+        {
+            "bidang": "K3 Hijau",
+            "skema": [
+                "Ahli penilaian risiko perubahan iklim",
+                "Spesialis ekonomi sirkular"
+            ]
+        }
+    ],
+    "sertifikasi": {
+        "lembaga": [
+            "LSP K3 Nasional",
+            "LSP perusahaan (diakui Kemnaker)"
+        ],
+        "skema": [
+            {
+                "jenis": "Sertifikasi Awal",
+                "persyaratan": [
+                    "Pelatihan terakreditasi",
+                    "Pengalaman kerja 2 tahun"
+                ]
+            },
+            {
+                "jenis": "Rekognisi Pembelajaran Lampau (RPL)",
+                "persyaratan": [
+                    "Portofolio pengalaman 5 tahun",
+                    "Uji kompetensi"
+                ]
+            }
+        ],
+        "masa_berlaku": "5 tahun"
+    },
+    "kewajiban_perusahaan": [
+        "Pemetaan kompetensi K3 seluruh pekerja",
+        "Alokasi 3% payroll untuk pengembangan kompetensi K3",
+        "Pelaporan tingkat kompetensi K3 melalui SIPK3 Online"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu11-2020",
+            "judul": "UU Cipta Kerja",
+            "hubungan": "Dasar hukum penerapan SKKNI"
+        },
+        {
+            "id": "permenaker36-2021",
+            "judul": "Permenaker tentang Penyelenggaraan Pelatihan K3",
+            "hubungan": "Harmonisasi kurikulum"
+        }
+    ],
+    "status": "Masih berlaku",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2023/2023permenaker2.pdf"
+}

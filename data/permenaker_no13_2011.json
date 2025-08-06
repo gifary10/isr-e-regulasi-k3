@@ -1,0 +1,99 @@
+{
+    "id": "permenakerper13-menx-2011",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Nilai Ambang Batas Faktor Fisika dan Kimia di Udara Lingkungan Kerja",
+    "nomor": "PER.13/MEN/X/2011",
+    "tahun": "2011",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "13 Oktober 2011",
+    "tanggal_berlaku": "1 Januari 2012",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk untuk memperbarui standar paparan kerja mengacu perkembangan ilmu toksikologi industri dan standar internasional (ACGIH 2011), menggantikan Kepmenaker No. Kep.187/MEN/1999.",
+    "deskripsi": "Peraturan yang menetapkan Nilai Ambang Batas (NAB) 158 parameter fisika dan 647 bahan kimia di lingkungan kerja untuk mencegah penyakit akibat kerja.",
+    "jumlah_bab": "5 Bab",
+    "jumlah_pasal": "12 Pasal",
+    "parameter_fisika": [
+        {
+            "jenis": "Kebisingan",
+            "nab": "85 dBA (8 jam)",
+            "catatan": "Exchange rate 3 dB"
+        },
+        {
+            "jenis": "Getaran",
+            "nab": [
+                {"frekuensi": "4-8 Hz", "nilai": "0.63 m/s²"},
+                {"frekuensi": "8-16 Hz", "nilai": "1.25 m/s²"}
+            ]
+        },
+        {
+            "jenis": "Radiasi",
+            "nab": [
+                {"tipe": "Non-ion", "nilai": "10 mW/cm²"},
+                {"tipe": "Ion", "nilai": "20 mSv/tahun"}
+            ]
+        }
+    ],
+    "parameter_kimia": [
+        {
+            "kategori": "Logam",
+            "contoh": [
+                {"nama": "Timbal", "nab": "0.05 mg/m³"},
+                {"nama": "Merkuri", "nab": "0.025 mg/m³"}
+            ]
+        },
+        {
+            "kategori": "Gas",
+            "contoh": [
+                {"nama": "Karbon Monoksida", "nab": "25 ppm"},
+                {"nama": "Hidrogen Sulfida", "nab": "10 ppm"}
+            ]
+        },
+        {
+            "kategori": "Pelarut",
+            "contoh": [
+                {"nama": "Benzena", "nab": "0.5 ppm"},
+                {"nama": "Toluena", "nab": "50 ppm"}
+            ]
+        }
+    ],
+    "kewajiban_perusahaan": [
+        "Pengukuran lingkungan kerja 6 bulan sekali",
+        "Pemetaan zona paparan (personal/area monitoring)",
+        "Pelaporan hasil pemantauan ke Disnaker",
+        "Penerapan hierarki pengendalian jika melebihi NAB"
+    ],
+    "metode_pengukuran": [
+        "Personal sampling untuk paparan individu",
+        "Area sampling untuk pemetaan lingkungan",
+        "Real-time monitoring untuk bahan berisiko tinggi",
+        "Analisis di laboratorium terakreditasi"
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Administratif",
+            "bentuk": [
+                "Teguran tertulis",
+                "Denda hingga Rp50 juta",
+                "Pembatasan operasi"
+            ]
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum penetapan NAB"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker SMK3",
+            "hubungan": "Integrasi dengan sistem manajemen"
+        }
+    ],
+    "lampiran": [
+        "Daftar lengkap NAB kimia (647 bahan)",
+        "Prosedur pengambilan sampel udara",
+        "Daftar laboratorium rujukan"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 8/2020)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2011/2011permenakerper13menx.pdf"
+}

@@ -1,0 +1,84 @@
+{
+    "id": "permenakertransper01-men-1981",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Kewajiban Latihan Hiperkes dan Kesehatan Kerja bagi Dokter Perusahaan",
+    "nomor": "PER.01/MEN/1981",
+    "tahun": "1981",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "10 Februari 1981",
+    "tanggal_berlaku": "1 Juli 1981",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk untuk menstandarisasi kompetensi dokter perusahaan di Indonesia, menyusul maraknya kasus salah diagnosis penyakit akibat kerja (PAK) di era industrialisasi awal 1980-an.",
+    "deskripsi": "Peraturan yang mewajibkan pelatihan hiperkes (higiene perusahaan dan kesehatan kerja) bagi dokter yang bertugas sebagai dokter perusahaan.",
+    "jumlah_bab": "5 Bab",
+    "jumlah_pasal": "14 Pasal",
+    "sasaran": [
+        "Dokter yang ditunjuk sebagai dokter perusahaan",
+        "Dokter yang akan membuka praktik kesehatan kerja"
+    ],
+    "persyaratan_peserta": [
+        "Memiliki STR (Surat Tanda Registrasi) yang masih berlaku",
+        "Surat rekomendasi dari organisasi profesi",
+        "Pengalaman kerja minimal 1 tahun"
+    ],
+    "materi_pelatihan": {
+        "teori": [
+            "Epidemiologi penyakit akibat kerja",
+            "Toksikologi industri",
+            "Pengendalian faktor risiko kesehatan kerja",
+            "Hukum ketenagakerjaan terkait K3"
+        ],
+        "praktek": [
+            "Pemeriksaan kesehatan pekerja",
+            "Investigasi kasus PAK",
+            "Penggunaan alat ukur lingkungan kerja"
+        ],
+        "durasi": "120 jam pelajaran (4 minggu)"
+    },
+    "lembaga_pelatihan": [
+        {
+            "nama": "Pusat Hiperkes dan Keselamatan Kerja",
+            "lokasi": "Jakarta, Bandung, Surabaya"
+        },
+        {
+            "nama": "Rumah Sakit Pendidikan",
+            "syarat": "Memiliki unit kesehatan kerja"
+        }
+    ],
+    "sertifikasi": {
+        "jenis": "Sertifikat Kompetensi Dokter Perusahaan",
+        "masa_berlaku": "5 tahun",
+        "syarat_perpanjangan": [
+            "Mengikuti pelatihan penyegaran 40 jam",
+            "Masih aktif sebagai dokter perusahaan"
+        ]
+    },
+    "kewajiban_lulusan": [
+        "Menjadi dokter perusahaan minimal 3 tahun",
+        "Membina klinik perusahaan",
+        "Melaporkan kasus PAK ke Depnaker"
+    ],
+    "sanksi": [
+        {
+            "jenis": "Administratif",
+            "bentuk": [
+                "Pencabutan sertifikat",
+                "Denda hingga Rp2.000.000 (nilai 1981)"
+            ]
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "permenakertrans02-men-1980",
+            "judul": "Permenakertrans tentang Pemeriksaan Kesehatan Tenaga Kerja",
+            "hubungan": "Implementasi di perusahaan"
+        },
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 14 Tahun 2016",
+    "catatan_sejarah": "Menjadi dasar pengembangan program spesialisasi Okupasi di Indonesia",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1981/1981permenakertransper01men.pdf"
+}

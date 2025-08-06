@@ -1,0 +1,61 @@
+{
+    "id": "uu4-2009",
+    "judul": "Undang-Undang tentang Pertambangan Mineral dan Batubara",
+    "nomor": "4",
+    "tahun": "2009",
+    "jenis": "Undang-Undang",
+    "tanggal_diundangkan": "12 Januari 2009",
+    "tanggal_berlaku": "12 Januari 2009",
+    "tanggal_rilis": "12 Januari 2009",
+    "instansi_penerbit": "DPR RI dan Presiden RI",
+    "latar_belakang": "Dibentuk untuk mengatur kegiatan pertambangan yang berisiko tinggi terhadap keselamatan pekerja, dengan mempertimbangkan tingginya angka kecelakaan kerja di sektor pertambangan Indonesia.",
+    "deskripsi": "Undang-Undang yang mengatur standar keselamatan dan kesehatan kerja di bidang pertambangan, termasuk pengelolaan risiko khusus seperti longsor, gas beracun, dan ledakan.",
+    "jumlah_bab": "17 Bab",
+    "jumlah_pasal": "175 Pasal",
+    "kewajiban_perusahaan_k3": [
+        "Menyusun dokumen Sistem Manajemen Keselamatan Pertambangan (SMKP) wajib",
+        "Melakukan risk assessment untuk setiap tahap operasi pertambangan",
+        "Menyediakan alat deteksi gas dan sistem peringatan dini",
+        "Membentuk tim penyelamat tambang (mine rescue team)",
+        "Melakukan simulasi tanggap darurat 3 bulan sekali",
+        "Pemeriksaan kesehatan khusus pekerja tambang (spirometri, audiometri)",
+        "Pemasangan rambu K3 di seluruh area tambang"
+    ],
+    "standar_k3_tambang": [
+        "Pengendalian stabilitas lereng (slope stability monitoring)",
+        "Ventilasi tambang bawah tanah sesuai Kepmen ESDM No. 1827 K/30/MEM/2018",
+        "Pembatasan paparan debu batubara (coal dust < 2 mg/m³)",
+        "Sistem penahanan banjir (flood control system)",
+        "Zona eksklusi untuk bahan peledak"
+    ],
+    "sanksi_k3": [
+        "Pencabutan IUP (Izin Usaha Pertambangan) untuk pelanggaran berat K3 (Pasal 161)",
+        "Denda hingga Rp10 miliar untuk kecelakaan fatal yang disebabkan kelalaian (Pasal 162)",
+        "Pidana kurungan 1-5 tahun bagi pengurus yang lalai (Pasal 163)"
+    ],
+    "regulasi_terkait_k3": [
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum umum K3 pertambangan"
+        },
+        {
+            "id": "permenesdm26-2018",
+            "judul": "Peraturan Menteri ESDM tentang Pelaksanaan Kaidah Teknik Pertambangan yang Baik",
+            "hubungan": "Standar teknis SMKP"
+        },
+        {
+            "id": "pp55-2010",
+            "judul": "PP tentang Pembinaan dan Pengawasan Penyelenggaraan Pertambangan",
+            "hubungan": "Pengawasan K3 tambang"
+        }
+    ],
+    "instrumen_k3_tambang": [
+        "Dokumen Rencana Kerja dan Anggaran Biaya (RKAB) bidang K3",
+        "Laporan Bulanan Keselamatan Pertambangan",
+        "Sertifikasi Kompetensi K3 Pertambangan (POP, POM, POU)",
+        "Geotechnical Inspection Report"
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh UU 3/2020 tentang Perubahan UU Minerba)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/ln/2009/UU4-2009.pdf"
+}

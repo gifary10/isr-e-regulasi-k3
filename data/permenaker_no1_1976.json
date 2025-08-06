@@ -1,0 +1,89 @@
+{
+    "id": "permenakertransper01-men-1976",
+    "judul": "Peraturan Menteri Tenaga Kerja dan Transmigrasi tentang Keselamatan dan Kesehatan Kerja pada Konstruksi Bangunan",
+    "nomor": "PER.01/MEN/1976",
+    "tahun": "1976",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "5 Januari 1976",
+    "tanggal_berlaku": "1 Juli 1976",
+    "instansi_penerbit": "Kementerian Tenaga Kerja dan Transmigrasi RI",
+    "latar_belakang": "Dibentuk sebagai respons terhadap tingginya angka kecelakaan konstruksi (38% dari total kecelakaan kerja 1975) dan menjadi regulasi K3 konstruksi pertama di Indonesia, mengadopsi standar ILO C62 (1937).",
+    "deskripsi": "Peraturan yang mengatur standar keselamatan kerja untuk proyek konstruksi bangunan dengan fokus pada pencegahan jatuh, tertimpa material, dan bahaya listrik.",
+    "jumlah_bab": "7 Bab", 
+    "jumlah_pasal": "28 Pasal",
+    "ruang_lingkup": [
+        "Gedung bertingkat",
+        "Jembatan",
+        "Bangunan industri",
+        "Konstruksi sipil lainnya"
+    ],
+    "persyaratan_keselamatan": [
+        {
+            "aspek": "Perancah",
+            "ketentuan": [
+                "Beban kerja maksimal 4x beban rencana",
+                "Tinggi maksimal 4 lantai tanpa pengikat",
+                "Papan kerja minimal lebar 60 cm"
+            ]
+        },
+        {
+            "aspek": "Pekerjaan Ketinggian",
+            "ketentuan": [
+                "Pengaman pinggir (guard rail) tinggi 1 m",
+                "Jaring pengaman (safety net) untuk ketinggian >3 m",
+                "Tali pengaman (safety harness) wajib di >6 m"
+            ]
+        },
+        {
+            "aspek": "Listrik",
+            "ketentuan": [
+                "Jarak aman 3 m dari saluran bertegangan",
+                "Peralatan listrik kelas IP54",
+                "Pemeriksaan instalasi mingguan"
+            ]
+        }
+    ],
+    "kewajiban_kontraktor": [
+        "Penunjukan pengawas K3 konstruksi",
+        "Penyediaan APD lengkap",
+        "Pembuatan rencana K3 proyek",
+        "Pelatihan dasar K3 untuk pekerja",
+        "Pemasangan rambu peringatan"
+    ],
+    "pengawasan": [
+        {
+            "tingkat": "Internal",
+            "frekuensi": "Harian oleh pengawas lapangan"
+        },
+        {
+            "tingkat": "Eksternal",
+            "frekuensi": "Bulanan oleh inspektor Depnaker"
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Pelanggaran ringan",
+            "denda": "Rp500.000 (nilai 1976)"
+        },
+        {
+            "tingkat": "Pelanggaran berat",
+            "denda": "Rp5.000.000",
+            "tambahan": "Penghentian proyek"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu1-1970", 
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan konstruksi"
+        },
+        {
+            "id": "permenaker4-1987",
+            "judul": "Permenaker P2K3",
+            "hubungan": "Pembentukan panitia konstruksi"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 1 Tahun 1980",
+    "catatan_sejarah": "Menjadi dasar pengembangan SNI 03-2916-1992 tentang K3 Konstruksi",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1976/1976permenakertransper01men.pdf"
+}

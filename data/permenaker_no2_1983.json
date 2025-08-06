@@ -1,0 +1,120 @@
+{
+    "id": "permenakerper02-men-1983",
+    "judul": "Peraturan Menteri Tenaga Kerja tentang Instalasi Alarm Kebakaran Otomatik",
+    "nomor": "Per.02/Men/1983",
+    "tahun": "1983",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "15 Februari 1983",
+    "tanggal_berlaku": "1 Juli 1983",
+    "instansi_penerbit": "Kementerian Tenaga Kerja RI",
+    "latar_belakang": "Dibentuk sebagai respons terhadap meningkatnya insiden kebakaran di industri manufaktur tahun 1980-1982, dengan mengadopsi standar NFPA 72-1981.",
+    "deskripsi": "Peraturan yang mengatur persyaratan teknis sistem alarm kebakaran otomatis di tempat kerja untuk deteksi dini dan pencegahan kebakaran.",
+    "jumlah_bab": "8 Bab",
+    "jumlah_pasal": "24 Pasal",
+    "sistem_alarm": {
+        "komponen_wajib": [
+            "Detektor asap (smoke detector)",
+            "Detektor panas (heat detector)",
+            "Panel kontrol pusat",
+            "Sistem suara (siren/minimum 75 dB)",
+            "Tanda visual (strobe light)"
+        ],
+        "persyaratan_teknis": [
+            {
+                "aspek": "Zonasi",
+                "ketentuan": "Maksimal 2000m² per zona"
+            },
+            {
+                "aspek": "Sumber daya",
+                "ketentuan": "Backup baterai 24 jam"
+            },
+            {
+                "aspek": "Material",
+                "ketentuan": "Tahan korosi kelas IP42"
+            }
+        ]
+    },
+    "kewajiban_pemasangan": [
+        {
+            "jenis_bangunan": "Gudang >500m²",
+            "persyaratan": [
+                "Detektor panas tipe fixed temperature",
+                "Zonasi per 1000m²"
+            ]
+        },
+        {
+            "jenis_bangunan": "Gedung perkantoran >10 lantai",
+            "persyaratan": [
+                "Sistem addressable",
+                "Tanda evakuasi suara+visual"
+            ]
+        },
+        {
+            "jenis_bangunan": "Pabrik bahan mudah terbakar",
+            "persyaratan": [
+                "Detektor flame",
+                "Sistem redundansi"
+            ]
+        }
+    ],
+    "pemeliharaan": [
+        {
+            "frekuensi": "Mingguan",
+            "aktivitas": "Test manual satu detektor per zona"
+        },
+        {
+            "frekuensi": "Bulanan",
+            "aktivitas": "Pemeriksaan tegangan baterai"
+        },
+        {
+            "frekuensi": "Tahunan",
+            "aktivitas": [
+                "Kalibrasi detektor",
+                "Simulasi evakuasi penuh"
+            ]
+        }
+    ],
+    "sertifikasi": [
+        {
+            "jenis": "Instalator",
+            "persyaratan": [
+                "Lisensi Depnaker",
+                "Pelatihan 80 jam"
+            ]
+        },
+        {
+            "jenis": "Teknisi Pemeliharaan",
+            "persyaratan": [
+                "Sertifikat kompetensi",
+                "Pengalaman 2 tahun"
+            ]
+        }
+    ],
+    "sanksi": [
+        {
+            "tingkat": "Administratif",
+            "denda": "Rp2.000.000 (nilai 1983)",
+            "contoh": "Tidak ada laporan bulanan"
+        },
+        {
+            "tingkat": "Pidana",
+            "denda": "Rp10.000.000",
+            "contoh": "Pemalsuan sertifikat kalibrasi"
+        }
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "permenaker4-1980",
+            "judul": "Permenaker tentang APAR",
+            "hubungan": "Sistem perlindungan kebakaran terpadu"
+        },
+        {
+            "id": "uu1-1970",
+            "judul": "UU Keselamatan Kerja",
+            "hubungan": "Dasar hukum pengawasan"
+        }
+    ],
+    "status": "Dicabut oleh Permenaker No. 26 Tahun 2008",
+    "catatan_transisi": "Sistem yang terpasang sebelum 2008 dapat tetap digunakan hingga 10 tahun sejak pemasangan",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/1983/1983permenakerper02men.pdf"
+}

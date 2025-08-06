@@ -1,0 +1,106 @@
+{
+    "id": "permenaker26-2014",
+    "judul": "Peraturan Menteri Ketenagakerjaan tentang Penyelenggaraan Pemeliharaan Kesehatan Kerja",
+    "nomor": "26",
+    "tahun": "2014",
+    "jenis": "Peraturan Menteri",
+    "tanggal_diundangkan": "29 Desember 2014",
+    "tanggal_berlaku": "1 Januari 2015",
+    "instansi_penerbit": "Kementerian Ketenagakerjaan RI",
+    "latar_belakang": "Dibentuk untuk mengoptimalkan perlindungan kesehatan pekerja melalui layanan kesehatan kerja yang komprehensif, menyusul meningkatnya kasus penyakit akibat kerja (PAK) di Indonesia.",
+    "deskripsi": "Peraturan yang mengatur penyelenggaraan pelayanan kesehatan kerja oleh perusahaan, mencakup upaya promotif, preventif, kuratif, dan rehabilitatif bagi pekerja.",
+    "jumlah_bab": "10 Bab",
+    "jumlah_pasal": "32 Pasal",
+    "ruang_lingkup": [
+        "Pemeriksaan kesehatan pekerja",
+        "Pengendalian faktor risiko kesehatan di tempat kerja",
+        "Surveilans kesehatan kerja",
+        "Penanganan darurat medis",
+        "Rehabilitasi medis"
+    ],
+    "kewajiban_perusahaan": [
+        {
+            "kategori": "Fasilitas Kesehatan",
+            "persyaratan": [
+                "Menyediakan klinik perusahaan (untuk ≥100 pekerja)",
+                "Kerjasama dengan puskesmas/faskes untuk UKM (<100 pekerja)",
+                "Memiliki ruang P3K di setiap unit kerja"
+            ]
+        },
+        {
+            "kategori": "Tenaga Kesehatan",
+            "persyaratan": [
+                "Dokter perusahaan (wajib untuk risiko tinggi/≥500 pekerja)",
+                "Perawat K3 bersertifikat",
+                "Petugas P3K minimal 1% dari jumlah pekerja"
+            ]
+        },
+        {
+            "kategori": "Pemeriksaan Kesehatan",
+            "persyaratan": [
+                "Awal, berkala (setiap tahun), dan khusus",
+                "Pemeriksaan khusus untuk pajanan B3 (setiap 6 bulan)",
+                "Pemeriksaan sebelum pensiun"
+            ]
+        }
+    ],
+    "standar_pelayanan": [
+        {
+            "jenis": "Promotif",
+            "contoh": [
+                "Penyuluhan gizi kerja",
+                "Program berhenti merokok"
+            ]
+        },
+        {
+            "jenis": "Preventif",
+            "contoh": [
+                "Vaksinasi sesuai risiko pekerjaan",
+                "Pemantauan lingkungan kerja (kebisingan, pencahayaan, kualitas udara)"
+            ]
+        },
+        {
+            "jenis": "Kuratif",
+            "contoh": [
+                "Pengobatan penyakit umum",
+                "Penanganan kecelakaan kerja"
+            ]
+        },
+        {
+            "jenis": "Rehabilitatif",
+            "contoh": [
+                "Terapi okupasi untuk cedera kerja",
+                "Program kembali bekerja (return to work)"
+            ]
+        }
+    ],
+    "pencatatan_dan_pelaporan": [
+        "Rekam medis pekerja (disimpan minimal 10 tahun)",
+        "Laporan tahunan ke dinas ketenagakerjaan",
+        "Dokumen surveilans kesehatan kerja"
+    ],
+    "sanksi": [
+        "Teguran tertulis",
+        "Denda administratif hingga Rp50 juta",
+        "Pembekuan operasional untuk pelanggaran berat"
+    ],
+    "regulasi_terkait": [
+        {
+            "id": "uu36-2009",
+            "judul": "UU Kesehatan",
+            "hubungan": "Dasar hukum pelayanan kesehatan kerja"
+        },
+        {
+            "id": "permenkes48-2016",
+            "judul": "Permenkes tentang Standar K3 Perkantoran",
+            "hubungan": "Sinkronisasi standar kesehatan kerja"
+        },
+        {
+            "id": "permenaker5-1996",
+            "judul": "Permenaker tentang SMK3",
+            "hubungan": "Integrasi dengan sistem manajemen"
+        }
+    ],
+    "status": "Masih berlaku (direvisi sebagian oleh Permenaker 8/2019)",
+    "link_dokumen": "https://peraturan.go.id/common/dokumen/2014/2014permenaker26.pdf"
+}
